@@ -44,6 +44,39 @@
       opacity: 0;
     }
 
+    #text-intro {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 10000;
+      pointer-events: none;
+      overflow: hidden;
+      transition: opacity 1s ease-in-out;
+    }
+
+    #text-intro .title-text {
+      font-size: 3rem;
+      font-family: Georgia, serif;
+      color: #333;
+      letter-spacing: 0.05em;
+      white-space: nowrap;
+      transform: scale(10);
+      opacity: 0;
+      transition: transform 1.5s ease-in-out, opacity 1.5s ease-in-out;
+    }
+
+    #text-intro.zoom-in .title-text {
+      transform: scale(1);
+      opacity: 1;
+    }
+
+    #text-intro.fade-out {
+      opacity: 0;
+    }
+
     main {
       opacity: 0;
       transition: opacity 1s ease-in-out;
@@ -59,6 +92,10 @@
     <img src="Logo-yantra-shambala.png" alt="MARS Logo">
   </div>
 
+  <div id="text-intro">
+    <span class="title-text">Editura Shambala</span>
+  </div>
+
   <main>
     <h1>Se continua cu site-ul prestashop 9</h1>
     <p>Aici începe conținutul tău.</p>
@@ -67,13 +104,25 @@
   <script>
     window.addEventListener('load', () => {
       const intro = document.getElementById('intro');
+      const textIntro = document.getElementById('text-intro');
       const main = document.querySelector('main');
 
+      const ANIMATION_DELAY = 1000;
+      const ANIMATION_DURATION = 1500;
+      const BUFFER_TIME = 800;
+
+      // After delay: logo zooms out, text zooms in — simultaneously
       setTimeout(() => {
         intro.classList.add('zoom-out');
+        textIntro.classList.add('zoom-in');
+      }, ANIMATION_DELAY);
+
+      // After animation completes: fade out text overlay, show main content
+      setTimeout(() => {
+        textIntro.classList.add('fade-out');
         main.classList.add('show');
         document.body.style.overflow = 'auto';
-      }, 1000); // start zoom after 1s
+      }, ANIMATION_DELAY + ANIMATION_DURATION + BUFFER_TIME);
     });
   </script>
 </body>
