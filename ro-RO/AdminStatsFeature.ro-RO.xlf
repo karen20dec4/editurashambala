@@ -14,17 +14,17 @@
       </trans-unit>
       <trans-unit id="a0e9b94006c36be97ce9fa908fdff7d8" approved="yes">
         <source>%percentage%% Female Customers</source>
-        <target state="final">%percentage%% clienti de sex feminin</target>
+        <target state="final">%percentage%% clienți de sex feminin</target>
         <note>File: controllers/admin/AdminStatsController.php [Line: 724]</note>
       </trans-unit>
       <trans-unit id="7870d39845089cddec99f55bef4ca3bb" approved="yes">
         <source>%percentage%% Male Customers</source>
-        <target state="final">%percentage%% clienti de sex masculin</target>
+        <target state="final">%percentage%% clienți de sex masculin</target>
         <note>File: controllers/admin/AdminStatsController.php [Line: 726]</note>
       </trans-unit>
       <trans-unit id="70f3bf1ba6a40018f2b5139e4721bae1" approved="yes">
         <source>%percentage%% Neutral Customers</source>
-        <target state="final">%percentage%% clienti de sex neprecizat</target>
+        <target state="final">%percentage%% clienți de sex neprecizat</target>
         <note>File: controllers/admin/AdminStatsController.php [Line: 728]</note>
       </trans-unit>
       <trans-unit id="ac72cc56077f4fcf5c0fd3d6e0902264" approved="yes">
@@ -44,7 +44,7 @@
       </trans-unit>
       <trans-unit id="82ad4f0be97f8f36d31e2540aacb155d" approved="yes">
         <source>No customers</source>
-        <target state="final">Nu exista clienti</target>
+        <target state="final">Nu există clienți</target>
         <note>File: controllers/admin/AdminStatsController.php [Line: 722]</note>
       </trans-unit>
       <trans-unit id="08cfa7751d1812e961560f623e082aba" approved="yes">

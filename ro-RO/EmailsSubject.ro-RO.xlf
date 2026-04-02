@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="26fabd8660373b86b9288dd72fd40e13" approved="yes">
         <source>An answer to your message is available #ct%thread_id% #tc%thread_token%</source>
-        <target state="final">Un raspuns la mesajul tau este disponibil #ct%thread_id% #tc%thread_token%</target>
+        <target state="final">Un răspuns la mesajul tău este disponibil #ct%thread_id% #tc%thread_token%</target>
         <note>File: src/Core/Domain/CustomerService/CommandHandler/ReplyToCustomerThreadHandler.php [Line: 155]</note>
       </trans-unit>
       <trans-unit id="732f1aa49f17856ff55a5aa0a88374d9" approved="yes">
@@ -69,7 +69,7 @@
       </trans-unit>
       <trans-unit id="efabbb0eb84d3c8e487a72e879953673" approved="yes">
         <source>Newsletter confirmation</source>
-        <target state="final">Confirmarea abonarii la buletinul informativ</target>
+        <target state="final">Confirmarea abonării la buletinul informativ</target>
         <note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 830]</note>
       </trans-unit>
       <trans-unit id="a95bc59685fb4546de3884a5fbe474ea" approved="yes">
@@ -84,7 +84,7 @@
       </trans-unit>
       <trans-unit id="87405e011a2c4166bb685336827fbe81" approved="yes">
         <source>Package in transit</source>
-        <target state="final">Pachet in tranzit</target>
+        <target state="final">Pachet în tranzit</target>
         <note>File: classes/order/OrderCarrier.php [Line: 155]</note>
       </trans-unit>
       <trans-unit id="61afad00abe3639b3ead655a1e8696d9" approved="yes">
@@ -94,7 +94,7 @@
       </trans-unit>
       <trans-unit id="cad374f43e79ca774b2e8e00dcd8b842" approved="yes">
         <source>Process the payment of your order</source>
-        <target state="final">Proceseaza plata comenzii tale</target>
+        <target state="final">Procesează plata comenzii tale</target>
         <note>File: src/Adapter/Order/CommandHandler/SendProcessOrderEmailHandler.php [Line: 157]</note>
       </trans-unit>
       <trans-unit id="923524e0ff0364df2987d3b8269f03d1" approved="yes">
@@ -114,7 +114,7 @@
       </trans-unit>
       <trans-unit id="3cf100d3725155b75779945680651f3d" approved="yes">
         <source>The virtual product that you bought is available for download</source>
-        <target state="final">Produsul virtual pe care l-ai cumparat este disponibil pentru descarcare</target>
+        <target state="final">Produsul virtual pe care l-ai cumpărat este disponibil pentru descărcare</target>
         <note>File: classes/order/OrderHistory.php [Line: 181]</note>
       </trans-unit>
       <trans-unit id="9a843f20677a52ca79af903123147af0" approved="yes">
@@ -124,17 +124,17 @@
       </trans-unit>
       <trans-unit id="32e8a8d9ed872f16d6dae0dc5fd4bb71" approved="yes">
         <source>Your guest account has been transformed into a customer account</source>
-        <target state="final">Contul tau de oaspete a fost transformat in unul de client</target>
+        <target state="final">Contul tău de oaspete a fost transformat în unul de client</target>
         <note>File: classes/Customer.php [Line: 1330]</note>
       </trans-unit>
       <trans-unit id="d40cb87db94e750405e7b20a8a043d81" approved="yes">
         <source>Your message has been correctly sent</source>
-        <target state="final">Mesajul tau a fost trimis cu succes</target>
+        <target state="final">Mesajul tău a fost trimis cu succes</target>
         <note>File: modules/contactform/contactform.php [Line: 636]</note>
       </trans-unit>
       <trans-unit id="55c19f9aec68a1a320cbeba663f1e4c0" approved="yes">
         <source>Your message has been correctly sent #ct%thread_id% #tc%thread_token%</source>
-        <target state="final">Mesajul tau a fost trimis corect #ct%thread_id% #tc%thread_token%</target>
+        <target state="final">Mesajul tău a fost trimis corect #ct%thread_id% #tc%thread_token%</target>
         <note>File: modules/contactform/contactform.php [Line: 630]</note>
       </trans-unit>
       <trans-unit id="c5f4622e4a63b41e7c0ddc100583ee6b" approved="yes">
@@ -144,12 +144,12 @@
       </trans-unit>
       <trans-unit id="9fcf30e719f10629a4a7f951cfbbf2d0" approved="yes">
         <source>Your order has been changed</source>
-        <target state="final">Comanda ta a fost modificata</target>
+        <target state="final">Comanda ta a fost modificată</target>
         <note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1061]</note>
       </trans-unit>
       <trans-unit id="f2328a3f139e31d53016f94ea9477124" approved="yes">
         <source>Your order return status has changed</source>
-        <target state="final">Stadiul returnarii comenzii a fost modificat</target>
+        <target state="final">Stadiul returnării comenzii a fost modificat</target>
         <note>File: controllers/admin/AdminReturnController.php [Line: 275]</note>
       </trans-unit>
     </body>

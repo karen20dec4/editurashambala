@@ -24,12 +24,12 @@
       </trans-unit>
       <trans-unit id="6ca3b11e4d89a7649d10c2d70d98612f" approved="yes">
         <source>%s addition</source>
-        <target state="final">adaugare %s</target>
+        <target state="final">adăugare %s</target>
         <note>File: classes/controller/AdminController.php [Line: 1223]</note>
       </trans-unit>
       <trans-unit id="a333339eb21abf3d5a04f5ede8f73ae9" approved="yes">
         <source>%s deletion</source>
-        <target state="final">stergere %s</target>
+        <target state="final">ștergere %s</target>
         <note>File: classes/controller/AdminController.php [Line: 3971]</note>
       </trans-unit>
       <trans-unit id="93f04304c09d561ed79442ea9ee722d4" approved="yes">
@@ -54,7 +54,7 @@
       </trans-unit>
       <trans-unit id="21034ae6d01a83e702839a72ba8a77b0" approved="yes">
         <source>(tax excl.)</source>
-        <target state="final">(fara TVA)</target>
+        <target state="final">(fără TVA)</target>
         <note>File: admin-dev/themes/default/template/helpers/options/options.tpl [Line: 224]</note>
       </trans-unit>
       <trans-unit id="03de6422045e4ed3ac822c673ace32d1" approved="yes">
@@ -64,47 +64,47 @@
       </trans-unit>
       <trans-unit id="9769bc6be635c708fee72d29f5a08f30" approved="yes">
         <source>A word by itself is easy to guess</source>
-        <target state="final">Un cuvant izolat este usor de ghicit</target>
+        <target state="final">Un cuvânt izolat este ușor de ghicit</target>
         <note>File: install-dev/controllers/http/configure.php [Line: 251]</note>
       </trans-unit>
       <trans-unit id="d6d9190e86f812c0490da9360e12cee1" approved="yes">
         <source>Add a rule concerning</source>
-        <target state="final">Adaugare regula pentru</target>
+        <target state="final">Adăugare regula pentru</target>
         <note>File: admin-dev/themes/default/template/controllers/cart_rules/product_rule_group.tpl [Line: 45]</note>
       </trans-unit>
       <trans-unit id="a2bfda43aef35df5f7edb8f8de1f5f30" approved="yes">
         <source>Add another word or two. Uncommon words are better.</source>
-        <target state="final">Adauga inca un cuvant sau doua. Cuvintele neobișnuite sunt mai bune.</target>
+        <target state="final">Adaugă încă un cuvânt sau doua. Cuvintele neobișnuite sunt mai bune.</target>
         <note>File: install-dev/controllers/http/configure.php [Line: 270]</note>
       </trans-unit>
       <trans-unit id="58be4de806253a6ee411b6c0c99296c7" approved="yes">
         <source>Add file</source>
-        <target state="final">Adauga fisier</target>
+        <target state="final">Adaugă fișier</target>
         <note>File: admin-dev/themes/default/template/helpers/uploader/simple.tpl [Line: 67]</note>
       </trans-unit>
       <trans-unit id="9e74a55bb862a98723f9cf3f868d837e" approved="yes">
         <source>Add file...</source>
-        <target state="final">Adauga fisier...</target>
+        <target state="final">Adaugă fișier...</target>
         <note>File: admin-dev/themes/default/template/helpers/uploader/ajax.tpl [Line: 62]</note>
       </trans-unit>
       <trans-unit id="d39ec66f08507e26fe86aa5325d070df" approved="yes">
         <source>Add files</source>
-        <target state="final">Adauga fisiere</target>
+        <target state="final">Adaugă fișiere</target>
         <note>File: admin-dev/themes/default/template/helpers/uploader/simple.tpl [Line: 67]</note>
       </trans-unit>
       <trans-unit id="86d3852bba89bf82128c3e156624ad08" approved="yes">
         <source>Add files...</source>
-        <target state="final">Adauga fisiere...</target>
+        <target state="final">Adaugă fișiere...</target>
         <note>File: admin-dev/themes/default/template/helpers/uploader/ajax.tpl [Line: 62]</note>
       </trans-unit>
       <trans-unit id="2efd89b3ccc76b0b03a34196fc6d1c8b" approved="yes">
         <source>Add tag</source>
-        <target state="final">Adauga eticheta</target>
+        <target state="final">Adaugă eticheta</target>
         <note>File: admin-dev/themes/default/template/helpers/form/form.tpl [Line: 198]</note>
       </trans-unit>
       <trans-unit id="dd7bf230fde8d4836917806aff6a6b27" approved="yes">
         <source>Address</source>
-        <target state="final">Adresa ( str. si nr.)</target>
+        <target state="final">Adresa ( str. și nr.)</target>
         <note>File: modules/psgdpr/controllers/front/ExportDataToCsv.php [Line: 117]</note>
       </trans-unit>
       <trans-unit id="284b47b0bb63ae2df3b29f0e691d6fcf" approved="yes">
@@ -114,12 +114,12 @@
       </trans-unit>
       <trans-unit id="87ad69c27077c1bb5c57d004e7eac4aa" approved="yes">
         <source>After removing all personal data of a customer from my database, what will happen to his orders?</source>
-        <target state="final">Dupa stergerea datelor personale ale unui client din baza de date, ce se va intampla cu comenzile sale?</target>
+        <target state="final">După ștergerea datelor personale ale unui client din baza de date, ce se va întâmplă cu comenzile sale?</target>
         <note>File: modules/psgdpr/psgdpr.php [Line: 359]</note>
       </trans-unit>
       <trans-unit id="9d8d2d5ab12b515182a505f54db7f538" approved="yes">
         <source>Age</source>
-        <target state="final">Varsta</target>
+        <target state="final">Vârstă</target>
         <note>File: modules/psgdpr/controllers/front/ExportDataToCsv.php [Line: 74]</note>
       </trans-unit>
       <trans-unit id="effdb9ce6c5d44df31b89d7069c8e0fb" approved="yes">
@@ -134,7 +134,7 @@
       </trans-unit>
       <trans-unit id="82958461f3498cc00c0e95ffc05c482d" approved="yes">
         <source>All-uppercase is almost as easy to guess as all-lowercase</source>
-        <target state="final">Parolele compuse numai din majuscule sunt aproape la fel de usor de ghicit ca cele compuse numai din minuscule</target>
+        <target state="final">Parolele compuse numai din majuscule sunt aproape la fel de ușor de ghicit ca cele compuse numai din minuscule</target>
         <note>File: install-dev/controllers/http/configure.php [Line: 267]</note>
       </trans-unit>
       <trans-unit id="6d7215c4b3bc4716d026ac46c6d9ae64" approved="yes">
@@ -149,12 +149,12 @@
       </trans-unit>
       <trans-unit id="bb8956c67b82c7444a80c6b2433dd8b4" approved="yes">
         <source>Are you sure you want to uninstall this module?</source>
-        <target state="final">Sigur doresti dezinstalarea acestui modul?</target>
+        <target state="final">Sigur dorești dezinstalarea acestui modul?</target>
         <note>File: modules/psgdpr/psgdpr.php [Line: 151]</note>
       </trans-unit>
       <trans-unit id="e9cb217697088a98b1937d111d936281" approved="yes">
         <source>Attachment</source>
-        <target state="final">Atasament</target>
+        <target state="final">Atașament</target>
         <note>File: admin-dev/themes/default/template/controllers/return/helpers/form/form.tpl [Line: 83]</note>
       </trans-unit>
       <trans-unit id="1caa6ff629641a4eb20f190f7a0539ca" approved="yes">
@@ -174,7 +174,7 @@
       </trans-unit>
       <trans-unit id="c8c5918f1175c1296d19755b2f49d1c9" approved="yes">
         <source>Available Quantity</source>
-        <target state="final">Cantitate disponibila</target>
+        <target state="final">Cantitate disponibilă</target>
         <note>File: admin-dev/themes/default/template/controllers/suppliers/helpers/view/view.tpl [Line: 42]</note>
       </trans-unit>
       <trans-unit id="b1897515d548a960afe49ecf66a29021" approved="yes">
@@ -184,7 +184,7 @@
       </trans-unit>
       <trans-unit id="54e26a80f66b734f94bc2bd91f3a39ca" approved="yes">
         <source>Avoid dates and years that are associated with you</source>
-        <target state="final">Evita anii si datele care pot fi asociate cu tine</target>
+        <target state="final">Evita anii și datele care pot fi asociate cu tine</target>
         <note>File: install-dev/controllers/http/configure.php [Line: 265]</note>
       </trans-unit>
       <trans-unit id="b4535b0e01e0d48c4e38758a933870ad" approved="yes">
@@ -209,12 +209,12 @@
       </trans-unit>
       <trans-unit id="9178de10abf6a1368e7a73ec0adb0e8e" approved="yes">
         <source>Back to the previous page</source>
-        <target state="final">Inapoi la pagina precedenta</target>
+        <target state="final">Înapoi la pagina precedenta</target>
         <note>File: admin-dev/themes/default/template/controllers/not_found/content.tpl [Line: 31]</note>
       </trans-unit>
       <trans-unit id="9c37b7b6ff829e977df287900543ea54" approved="yes">
         <source>Birth date</source>
-        <target state="final">Data nasterii</target>
+        <target state="final">Data nașterii</target>
         <note>File: modules/psgdpr/controllers/front/ExportDataToCsv.php [Line: 73]</note>
       </trans-unit>
       <trans-unit id="1be6f9eb563f3bf85c78b4219bf09de9" approved="yes">
@@ -229,12 +229,12 @@
       </trans-unit>
       <trans-unit id="fc6dfe4f8b07fc04c99e27425f780754" approved="yes">
         <source>Cart ID</source>
-        <target state="final">ID cos</target>
+        <target state="final">ID coș</target>
         <note>File: modules/psgdpr/controllers/front/ExportDataToCsv.php [Line: 259]</note>
       </trans-unit>
       <trans-unit id="fc26e55e0993a75e892175deb02aae15" approved="yes">
         <source>Carts</source>
-        <target state="final">Cosuri</target>
+        <target state="final">Coșuri</target>
         <note>File: modules/psgdpr/controllers/front/ExportDataToCsv.php [Line: 222]</note>
       </trans-unit>
       <trans-unit id="3adbdb3ac060038aa0e6e6c138ef9873" approved="yes">
@@ -254,12 +254,12 @@
       </trans-unit>
       <trans-unit id="8df41ed5ebc778c45f74a201e822613a" approved="yes">
         <source>Choose a template</source>
-        <target state="final">Alege un sablon</target>
+        <target state="final">Alege un șablon</target>
         <note>File: admin-dev/themes/default/template/controllers/customer_threads/helpers/view/view.tpl [Line: 112]</note>
       </trans-unit>
       <trans-unit id="d3d2e617335f08df83599665eef8a418" approved="yes">
         <source>Close</source>
-        <target state="final">Inchide</target>
+        <target state="final">Închide</target>
         <note>File: admin-dev/themes/default/template/controllers/customer_threads/helpers/view/modal.tpl [Line: 62]</note>
       </trans-unit>
       <trans-unit id="240f3031f25601fa128bd4e15f0a37de" approved="yes">
@@ -269,7 +269,7 @@
       </trans-unit>
       <trans-unit id="c8a17899dc267baa655e66e93dfa97a2" approved="yes">
         <source>Common names and surnames are easy to guess</source>
-        <target state="final">Prenumele si numele comune sunt usor de ghicit</target>
+        <target state="final">Prenumele și numele comune sunt ușor de ghicit</target>
         <note>File: install-dev/controllers/http/configure.php [Line: 253]</note>
       </trans-unit>
       <trans-unit id="1c76cbfe21c6f44c1d1e59d54f3e4420" approved="yes">
@@ -284,7 +284,7 @@
       </trans-unit>
       <trans-unit id="59716c97497eb9694541f7c3d37b1a4d" approved="yes">
         <source>Country</source>
-        <target state="final">Tara</target>
+        <target state="final">Țară</target>
         <note>File: modules/psgdpr/controllers/front/ExportDataToCsv.php [Line: 341]</note>
       </trans-unit>
       <trans-unit id="90589c47f06eb971d548591f23c285af" approved="yes">
@@ -314,7 +314,7 @@
       </trans-unit>
       <trans-unit id="ea4ec6483496abdc141f5ded3db3ede1" approved="yes">
         <source>Data erasure</source>
-        <target state="final">Stergerea datelor</target>
+        <target state="final">Ștergerea datelor</target>
         <note>File: modules/psgdpr/psgdpr.php [Line: 344]</note>
       </trans-unit>
       <trans-unit id="44749712dbec183e983dcd78a7736c41" approved="yes">
@@ -329,7 +329,7 @@
       </trans-unit>
       <trans-unit id="b3c7b778a3c8c869426ae81486275b12" approved="yes">
         <source>Dates are often easy to guess</source>
-        <target state="final">Datele sunt adesea usor de ghicit</target>
+        <target state="final">Datele sunt adesea ușor de ghicit</target>
         <note>File: install-dev/controllers/http/configure.php [Line: 246]</note>
       </trans-unit>
       <trans-unit id="d207b4e0bce42a8f1555ce3a05e287f6" approved="yes">
@@ -349,7 +349,7 @@
       </trans-unit>
       <trans-unit id="b9987a246a537f4fe86f1f2e3d10dbdb" approved="yes">
         <source>Display</source>
-        <target state="final">Afiseaza</target>
+        <target state="final">Afișează</target>
         <note>File: admin-dev/themes/default/template/helpers/list/list_footer.tpl [Line: 63]</note>
       </trans-unit>
       <trans-unit id="f92965e2c8a7afb3c1b9a5c09a263636" approved="yes">
@@ -359,20 +359,20 @@
       </trans-unit>
       <trans-unit id="c2299e6abb73991105dfacfb6fdd6dd4" approved="yes">
         <source>Download current file</source>
-        <target state="final">Descarca fisierul curent</target>
+        <target state="final">Descarcă fișierul curent</target>
         <note>File: admin-dev/themes/default/template/helpers/uploader/simple.tpl [Line: 72]</note>
       </trans-unit>
       <trans-unit id="09942cec33b5becdf3e2275913b818e2" approved="yes">
         <source>Download current file (%skb)</source>
-        <target state="final">Descarca fisierul curent (%skb)</target>
+        <target state="final">Descarcă fișierul curent (%skb)</target>
         <note>File: admin-dev/themes/default/template/helpers/uploader/simple.tpl [Line: 72]</note>
       </trans-unit>
       <trans-unit id="10201d0ca5552dfa9bd599483105ffd0" approved="yes">
         <source>Due to other legal obligations, his orders will still be stocked but they are no longer associated with the customer.
 Only the name, shipping, and billing information must be kept in the order details page for legal reasons, invoicing, and accounting.
 According to the Rec.30;Art.7(1)(c)</source>
-        <target state="final">Din cauza altor obligatii legale, comenzile sale vor fi in continuare stocate, dar ele nu mai sunt asociate cu clientul.
-Doar numele, expedierea si informatiile de facturare trebuie pastrate in pagina cu detaliile comenzii din motive legale, pentru facturare si pentru contabilitate.
+        <target state="final">Din cauza altor obligații legale, comenzile sale vor fi în continuare stocate, dar ele nu mai sunt asociate cu clientul.
+Doar numele, expedierea și informațiile de facturare trebuie păstrate în pagina cu detaliile comenzii din motive legale, pentru facturare și pentru contabilitate.
 Conform Rec.30;Art.7(1)(c)</target>
         <note>File: modules/psgdpr/psgdpr.php [Line: 360]</note>
       </trans-unit>
@@ -388,7 +388,7 @@ Conform Rec.30;Art.7(1)(c)</target>
       </trans-unit>
       <trans-unit id="351b6d570b6ba15fe66e85c1eaf9ec64" approved="yes">
         <source>Export to SQL Manager</source>
-        <target state="final">Exporta in SQL Manager</target>
+        <target state="final">Exporta în SQL Manager</target>
         <note>File: admin-dev/themes/default/template/helpers/list/list_header.tpl [Line: 174]</note>
       </trans-unit>
       <trans-unit id="ea171d540ccd5f0669171ef06d3cd848" approved="yes">
@@ -403,12 +403,12 @@ Conform Rec.30;Art.7(1)(c)</target>
       </trans-unit>
       <trans-unit id="ee9b2f3cf31c23c944b15fb0b33d6a77" approved="yes">
         <source>Field Name</source>
-        <target state="final">Numele campului</target>
+        <target state="final">Numele câmpului</target>
         <note>File: admin-dev/themes/default/template/helpers/required_fields.tpl [Line: 42]</note>
       </trans-unit>
       <trans-unit id="1908624a0bca678cd26b99bfd405324e" approved="yes">
         <source>File size</source>
-        <target state="final">Dimensiunea fisierului</target>
+        <target state="final">Dimensiunea fișierului</target>
         <note>File: admin-dev/themes/default/template/helpers/uploader/simple.tpl [Line: 39]</note>
       </trans-unit>
       <trans-unit id="fa717ba17306cd76900510df8ac8013e" approved="yes">
@@ -433,7 +433,7 @@ Conform Rec.30;Art.7(1)(c)</target>
       </trans-unit>
       <trans-unit id="f23b2c81c46ee0bef9e68cf8a4e8094d" approved="yes">
         <source>From his customer account, a new tab called My Personal Data is available and your customer can retrieve all of his personal data collected by your shop and installed modules, in PDF or CSV format.</source>
-        <target state="final">In contul de client exista o noua fila numita 'Datele mele personale' unde clientul poate recupera toate datele sale personale, colectate de magazin si modulele instalate in el, in format PDF sau CSV.</target>
+        <target state="final">În contul de client există o noua fila numita 'Datele mele personale' unde clientul poate recupera toate datele sale personale, colectate de magazin și modulele instalate în el, în format PDF sau CSV.</target>
         <note>File: modules/psgdpr/psgdpr.php [Line: 330]</note>
       </trans-unit>
       <trans-unit id="019ec3132cdf8ee0f2e2a75cf5d3e459" approved="yes">
@@ -443,7 +443,7 @@ Conform Rec.30;Art.7(1)(c)</target>
       </trans-unit>
       <trans-unit id="2871afea416378d2772937c4d67d6c2c" approved="yes">
         <source>Generate password</source>
-        <target state="final">Genereaza parola</target>
+        <target state="final">Generează parola</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Type/ChangePasswordType.php [Line: 124]</note>
       </trans-unit>
       <trans-unit id="92a8f0b9d28a89b480bd1d29f46f0484" approved="yes">
@@ -483,12 +483,12 @@ Conform Rec.30;Art.7(1)(c)</target>
       </trans-unit>
       <trans-unit id="72cd5bd2552bb7c07721af5830c6cb57" approved="yes">
         <source>How to remove the personal data of a customer?</source>
-        <target state="final">Cum se pot sterge datele personale ale unui client?</target>
+        <target state="final">Cum se pot șterge datele personale ale unui client?</target>
         <note>File: modules/psgdpr/psgdpr.php [Line: 355]</note>
       </trans-unit>
       <trans-unit id="9176e38989ed06bc8bc2d2eb64ff651a" approved="yes">
         <source>How will a customer ask for all of his personal data to be deleted ?</source>
-        <target state="final">Cum poate un client cere stergerea datelor sale personale?</target>
+        <target state="final">Cum poate un client cere ștergerea datelor sale personale?</target>
         <note>File: modules/psgdpr/psgdpr.php [Line: 347]</note>
       </trans-unit>
       <trans-unit id="a12a3079e14ced46e69ba52b8a90b21a" approved="yes">
@@ -503,24 +503,24 @@ Conform Rec.30;Art.7(1)(c)</target>
       </trans-unit>
       <trans-unit id="bcca39c6f36c3085c46429511614b227" approved="yes">
         <source>If enabled, the voucher will not apply to products already on sale.</source>
-        <target state="final">Daca este activat, cuponul nu se va aplica produselor aflate deja in vanzare.</target>
+        <target state="final">Dacă este activat, cuponul nu se va aplica produselor aflate deja în vânzare.</target>
         <note>File: admin-dev/themes/default/template/controllers/cart_rules/actions.tpl [Line: 145]</note>
       </trans-unit>
       <trans-unit id="cb91cb05467ec71c32d5c23913b71bd0" approved="yes">
         <source>If the request is valid, from the Personal Data Management tab of this module, any customer can be found by typing the first few letters of his name or email address in the search bar.
 Before deleting any data, we recommend you to download all the invoices of the involved customer. After deleting the data with the “Remove data” button, the customer’s orders can’t be legally deleted, they just won’t be linked to any account. This allows you to keep precise statistics of your shop.</source>
-        <target state="final">Daca solicitarea este valida, din fila 'Gestionarea datelor cu caracter personal' a acestui modul, orice client poate fi gasit tastand primele litere ale numelui sau adresei sale de e-mail in bara de cautare.
-Inainte de a sterge orice date, iti recomandam sa descarci toate facturile clientului implicat. Legea nu permite stergerea comenzilor clientilor. Pur si simplu, dupa stergerea datelor cu butonul „Sterge datele”, aceste comenzi nu vor fi conectate la niciun cont. Descarcarea facturilor iti permite sa pastrezi statistici precise pentru magazinul tau</target>
+        <target state="final">Dacă solicitarea este validă, din fila 'Gestionarea datelor cu caracter personal' a acestui modul, orice client poate fi găsit tastand primele litere ale numelui sau adresei sale de e-mail în bara de căutare.
+Înainte de a șterge orice date, îți recomandăm să descărci toate facturile clientului implicat. Legea nu permite ștergerea comenzilor clienților. Pur și simplu, după ștergerea datelor cu butonul „Șterge datele”, aceste comenzi nu vor fi conectate la niciun cont. Descărcarea facturilor îți permite să păstrezi statistici precise pentru magazinul tău</target>
         <note>File: modules/psgdpr/psgdpr.php [Line: 356]</note>
       </trans-unit>
       <trans-unit id="d97ccb3e617d930d52ffd95e5db2c101" approved="yes">
         <source>If you check a field, change its value, and save, the multistore behavior will not apply to this shop (or group), for this particular parameter.</source>
-        <target state="final">Daca bifezi un camp, schimbi valoarea acestuia si salvezi, comportamentul multi-magazin nu se va aplica acestui magazin (sau grup), pentru acest parametru.</target>
+        <target state="final">Dacă bifezi un câmp, schimbi valoarea acestuia și salvezi, comportamentul multi-magazin nu se va aplica acestui magazin (sau grup), pentru acest parametru.</target>
         <note>File: admin-dev/themes/default/template/helpers/options/options.tpl [Line: 82]</note>
       </trans-unit>
       <trans-unit id="225ba2bdb1c56af16651110411fc21b1" approved="yes">
         <source>Indicate how many of the first rows of your file should be skipped when importing the data. For instance set it to 1 if the first row of your file contains headers.</source>
-        <target state="final">Stabileste cate din primele randuri ale fisierului ar trebui sa fie omise la importarea datelor. De exemplu, seteaza la 1 daca primul rand al fisierului contine antetul.</target>
+        <target state="final">Stabilește câte din primele randuri ale fișierului ar trebui să fie omise la importarea datelor. De exemplu, seteaza la 1 dacă primul rand al fișierului conține antetul.</target>
         <note>File: admin-dev/themes/default/template/controllers/import/helpers/view/view.tpl [Line: 117]</note>
       </trans-unit>
       <trans-unit id="e68564f23e0e939acea76dc3d2bc01bf" approved="yes">
@@ -575,17 +575,17 @@ Inainte de a sterge orice date, iti recomandam sa descarci toate facturile clien
       </trans-unit>
       <trans-unit id="f19dbf2edb3a0bd74b0524d960ff21eb" approved="yes">
         <source>Load</source>
-        <target state="final">Incarca</target>
+        <target state="final">Încarcă</target>
         <note>File: admin-dev/themes/default/template/controllers/import/helpers/view/view.tpl [Line: 76]</note>
       </trans-unit>
       <trans-unit id="4d83ebfaf28dd4436e1165a1764750db" approved="yes">
         <source>Load a data matching configuration</source>
-        <target state="final">Incarca o configuratie</target>
+        <target state="final">Încarcă o configurație</target>
         <note>File: admin-dev/themes/default/template/controllers/import/helpers/view/view.tpl [Line: 67]</note>
       </trans-unit>
       <trans-unit id="74f261754dce7bb6c07ea3f586c3e2f1" approved="yes">
         <source>Make your store comply with the General Data Protection Regulation (GDPR).</source>
-        <target state="final">Asigura conformitatea magazinului tau cu Regulamentul European de Protectie a Datelor (GDPR).</target>
+        <target state="final">Asigură conformitatea magazinului tău cu Regulamentul European de Protecție a Datelor (GDPR).</target>
         <note>File: modules/psgdpr/psgdpr.php [Line: 139]</note>
       </trans-unit>
       <trans-unit id="7ce6b2286a5396e614b8484105d277e0" approved="yes">
@@ -600,7 +600,7 @@ Inainte de a sterge orice date, iti recomandam sa descarci toate facturile clien
       </trans-unit>
       <trans-unit id="43a37c093f7655efe882a7ffd7ce2e8d" approved="yes">
         <source>Match your data</source>
-        <target state="final">Potriveste datele</target>
+        <target state="final">Potrivește datele</target>
         <note>File: admin-dev/themes/default/template/controllers/import/helpers/view/view.tpl [Line: 61]</note>
       </trans-unit>
       <trans-unit id="195fbb57ffe7449796d23466085ce6d8" approved="yes">
@@ -660,7 +660,7 @@ Inainte de a sterge orice date, iti recomandam sa descarci toate facturile clien
       </trans-unit>
       <trans-unit id="83812066e07a07e691d165c97ba89735" approved="yes">
         <source>Names and surnames by themselves are easy to guess</source>
-        <target state="final">Numele si prenumele izolate sunt usor de ghicit</target>
+        <target state="final">Numele și prenumele izolate sunt ușor de ghicit</target>
         <note>File: install-dev/controllers/http/configure.php [Line: 252]</note>
       </trans-unit>
       <trans-unit id="69e62346c35bc63795db142cfbb0af66" approved="yes">
@@ -685,7 +685,7 @@ Inainte de a sterge orice date, iti recomandam sa descarci toate facturile clien
       </trans-unit>
       <trans-unit id="087fb8756d4add87f2d162304ccd486b" approved="yes">
         <source>No records found</source>
-        <target state="final">Nici o inregistrare nu a fost gasita</target>
+        <target state="final">Nici o înregistrare nu a fost găsită</target>
         <note>File: admin-dev/themes/default/template/helpers/list/list_content.tpl [Line: 210]</note>
       </trans-unit>
       <trans-unit id="908f8d9f34f375a55dd5b6a86489d364" approved="yes">
@@ -695,16 +695,16 @@ Inainte de a sterge orice date, iti recomandam sa descarci toate facturile clien
       </trans-unit>
       <trans-unit id="5132f2c7071d21437185cc8906ff30d6" approved="yes">
         <source>No, it is not a requirement as the customer gives consent by clicking on the Submit message button. Only a message is required to give your customers more information about the use of personal data on your website. We are currently working on a new version of the contact form, it will be available really soon for your online store.</source>
-        <target state="final">Nu, nu este o cerinta deoarece clientul isi da consimtamantul facand clic pe butonul 'Trimite mesajul'. Doar o notificare este necesara pentru a oferi clientilor mai multe informatii despre utilizarea datelor personale pe site-ul tau. In prezent lucram la o noua versiune a formularului de contact, care va fi disponibila foarte curand pentru magazinul tau.</target>
+        <target state="final">Nu, nu este o cerință deoarece clientul isi da consimțământul făcând clic pe butonul 'Trimite mesajul'. Doar o notificare este necesară pentru a oferi clienților mai multe informații despre utilizarea datelor personale pe site-ul tău. În prezent lucram la o noua versiune a formularului de contact, care va fi disponibilă foarte curand pentru magazinul tău.</target>
         <note>File: modules/psgdpr/psgdpr.php [Line: 339]</note>
       </trans-unit>
       <trans-unit id="0124f1dc4ed1770b17898a61a00ba224" approved="yes">
         <source>No, the Remove Data button in the customer account is not an obligation. For the data erasure requests, your customers can request data removal only under certain circumstances, that is the reason why we decided not to include an automatic Remove Data button in their customer account.
 
 They can, however, contact you anytime via your contact form, in this case, you can review their request and once you accept it, you will be able to remove their personal data directly in the configuration page of our Official GDPR Compliance module.</source>
-        <target state="final">Nu, butonul 'Sterge datele mele personale' nu este o obligatie. Clientii pot solicita stergerea datelor numai in anumite circumstante, acesta fiind motivul pentru care am decis sa nu includem butonul in contul de client.
+        <target state="final">Nu, butonul 'Șterge datele mele personale' nu este o obligație. Clienții pot solicită ștergerea datelor numai în anumite circumstante, acesta fiind motivul pentru care am decis să nu includem butonul în contul de client.
 
-Totusi, clientii te pot contacta oricand in acest scop, prin intermediul formularului de contact. In acest caz, poti verifica cererile si, daca le accepti, vei putea sa stergi datele personale direct din pagina de configurare a modulului oficial de conformitate cu GDPR.</target>
+Totuși, clienții te pot contacta oricând în acest scop, prin intermediul formularului de contact. În acest caz, poți verifică cererile și, dacă le accepti, vei putea să ștergi datele personale direct din pagina de configurare a modulului oficial de conformitate cu GDPR.</target>
         <note>File: modules/psgdpr/psgdpr.php [Line: 352]</note>
       </trans-unit>
       <trans-unit id="343e6957be77c6247aa2b8d0deb68bd6" approved="yes">
@@ -724,7 +724,7 @@ Totusi, clientii te pot contacta oricand in acest scop, prin intermediul formula
       </trans-unit>
       <trans-unit id="38f06ccd27281c8fc66e11581798ec06" approved="yes">
         <source>Number of products:</source>
-        <target state="final">Numarul de produse:</target>
+        <target state="final">Numărul de produse:</target>
         <note>File: admin-dev/themes/default/template/controllers/suppliers/helpers/view/view.tpl [Line: 30]</note>
       </trans-unit>
       <trans-unit id="594be08882c8e9d5efb9eeb62f303744" approved="yes">
@@ -739,7 +739,7 @@ Totusi, clientii te pot contacta oricand in acest scop, prin intermediul formula
       </trans-unit>
       <trans-unit id="dae8ace18bdcbcc6ae5aece263e14fe8" approved="yes">
         <source>Options</source>
-        <target state="final">Optiuni</target>
+        <target state="final">Opțiuni</target>
         <note>File: classes/controller/AdminController.php [Line: 661]</note>
       </trans-unit>
       <trans-unit id="d1228f5476d15142b1358ae4b5fa2454" approved="yes">
@@ -759,17 +759,17 @@ Totusi, clientii te pot contacta oricand in acest scop, prin intermediul formula
       </trans-unit>
       <trans-unit id="6ccfec41b65de46efeb7ca242341e8ea" approved="yes">
         <source>Please fill at least one field to perform a search in this list.</source>
-        <target state="final">Te rugam sa completezi cel putin un camp pentru a efectua o cautare in aceasta lista.</target>
+        <target state="final">Te rugăm să completezi cel puțin un câmp pentru a efectua o căutare în această lista.</target>
         <note>File: admin-dev/themes/default/template/helpers/list/list_header.tpl [Line: 116]</note>
       </trans-unit>
       <trans-unit id="e275f3b49dc3286ef66d7c2774a1f79b" approved="yes">
         <source>Please match each column of your source file to one of the destination columns.</source>
-        <target state="final">Te rugam sa asociezi fiecare coloana din fisierul sursa cu una din coloanele de destinatie.</target>
+        <target state="final">Te rugăm să asociezi fiecare coloana din fișierul sursa cu una din coloanele de destinație.</target>
         <note>File: admin-dev/themes/default/template/controllers/import/helpers/view/view.tpl [Line: 63]</note>
       </trans-unit>
       <trans-unit id="5f613cee6c941423b73e1f87ea3b99bc" approved="yes">
         <source>Please name your data matching configuration in order to save it.</source>
-        <target state="final">Te rugam sa dai un nume configuratiei pentru a o salva.</target>
+        <target state="final">Te rugăm să dai un nume configurației pentru a o salva.</target>
         <note>File: admin-dev/themes/default/template/controllers/import/helpers/view/view.tpl [Line: 28]</note>
       </trans-unit>
       <trans-unit id="8aedfe9265263408f5a72fff0a21c118" approved="yes">
@@ -784,7 +784,7 @@ Totusi, clientii te pot contacta oricand in acest scop, prin intermediul formula
       </trans-unit>
       <trans-unit id="97bf2dbc7a13706eeb1eac149bd2d130" approved="yes">
         <source>Previous period</source>
-        <target state="final">Perioada anterioara</target>
+        <target state="final">Perioada anterioară</target>
         <note>File: admin-dev/themes/default/template/helpers/calendar/calendar.tpl [Line: 81]</note>
       </trans-unit>
       <trans-unit id="3ca6ac2463aa0dc57452cf676723b79f" approved="yes">
@@ -814,7 +814,7 @@ Totusi, clientii te pot contacta oricand in acest scop, prin intermediul formula
       </trans-unit>
       <trans-unit id="c8be451a5698956a0e78b5c2caab4821" approved="yes">
         <source>Products bought</source>
-        <target state="final">Produse cumparate</target>
+        <target state="final">Produse cumpărate</target>
         <note>File: modules/psgdpr/controllers/front/ExportDataToCsv.php [Line: 189]</note>
       </trans-unit>
       <trans-unit id="694e8d1f2ee056f98ee488bdc4982d73" approved="yes">
@@ -824,47 +824,47 @@ Totusi, clientii te pot contacta oricand in acest scop, prin intermediul formula
       </trans-unit>
       <trans-unit id="43340e6cc4e88197d57f8d6d5ea50a46" approved="yes">
         <source>Read more</source>
-        <target state="final">Citeste mai mult</target>
+        <target state="final">Citește mai mult</target>
         <note>File: admin-dev/themes/default/template/controllers/dashboard/helpers/view/view.tpl [Line: 29]</note>
       </trans-unit>
       <trans-unit id="25096ab4fbb9994547ace751ca107515" approved="yes">
         <source>Recent years are easy to guess</source>
-        <target state="final">Anii recenti sunt usor de ghicit</target>
+        <target state="final">Anii recenti sunt ușor de ghicit</target>
         <note>File: install-dev/controllers/http/configure.php [Line: 245]</note>
       </trans-unit>
       <trans-unit id="63d5049791d9d79d86e9a108b0a999ca" approved="yes">
         <source>Reference</source>
-        <target state="final">Referinta</target>
+        <target state="final">Referință</target>
         <note>File: modules/psgdpr/controllers/front/ExportDataToCsv.php [Line: 155]</note>
       </trans-unit>
       <trans-unit id="e129ae480280e47ef82fc7702f8321ba" approved="yes">
         <source>Refresh list</source>
-        <target state="final">Improspateaza lista</target>
+        <target state="final">Împrospătează lista</target>
         <note>File: admin-dev/themes/default/template/helpers/list/list_header.tpl [Line: 160]</note>
       </trans-unit>
       <trans-unit id="1063e38cb53d94d386f21227fcd84717" approved="yes">
         <source>Remove</source>
-        <target state="final">Elimina</target>
+        <target state="final">Elimină</target>
         <note>File: admin-dev/themes/default/template/helpers/form/form.tpl [Line: 333]</note>
       </trans-unit>
       <trans-unit id="b21f085d08623fc7a5a9da204cc66c8c" approved="yes">
         <source>Remove file</source>
-        <target state="final">Stergi fisier</target>
+        <target state="final">Ștergi fișier</target>
         <note>File: admin-dev/themes/default/template/helpers/uploader/ajax.tpl [Line: 178]</note>
       </trans-unit>
       <trans-unit id="773ac0d662987369abf46eebc9000a09" approved="yes">
         <source>Repeats like "aaa" are easy to guess</source>
-        <target state="final">Repetari ca "aaa" sunt usor de ghicit</target>
+        <target state="final">Repetari ca "aaa" sunt ușor de ghicit</target>
         <note>File: install-dev/controllers/http/configure.php [Line: 242]</note>
       </trans-unit>
       <trans-unit id="97681c90722711e8081dcbd10620502e" approved="yes">
         <source>Repeats like "abcabcabc" are only slightly harder to guess than "abc"</source>
-        <target state="final">Repetari ca "abcabcabc" sunt doar cu putin mai greu de ghicit decat "abc"</target>
+        <target state="final">Repetari ca "abcabcabc" sunt doar cu puțin mai greu de ghicit decât "abc"</target>
         <note>File: install-dev/controllers/http/configure.php [Line: 243]</note>
       </trans-unit>
       <trans-unit id="e54b38290c8bdd95e8bc10412c9cc096" approved="yes">
         <source>Required Fields</source>
-        <target state="final">Campuri obligatorii</target>
+        <target state="final">Câmpuri obligatorii</target>
         <note>File: admin-dev/themes/default/template/helpers/required_fields.tpl [Line: 30]</note>
       </trans-unit>
       <trans-unit id="526d688f37a86d3c3f27d0c5016eb71d" approved="yes">
@@ -879,12 +879,12 @@ Totusi, clientii te pot contacta oricand in acest scop, prin intermediul formula
       </trans-unit>
       <trans-unit id="3b057f0f92ac8d274701c269ac00c5fa" approved="yes">
         <source>Rows to skip</source>
-        <target state="final">Linii de sarit</target>
+        <target state="final">Linii de sărit</target>
         <note>File: admin-dev/themes/default/template/controllers/import/helpers/view/view.tpl [Line: 114]</note>
       </trans-unit>
       <trans-unit id="e55bb1ae59b6a64858a85a2f48c53036" approved="yes">
         <source>Sa</source>
-        <target state="final">Sa</target>
+        <target state="final">Să</target>
         <note>File: admin-dev/themes/default/template/helpers/calendar/calendar.tpl [Line: 113]</note>
       </trans-unit>
       <trans-unit id="13c7d2d737f81f7bf89aed9fbcd0ad55" approved="yes">
@@ -899,17 +899,17 @@ Totusi, clientii te pot contacta oricand in acest scop, prin intermediul formula
       </trans-unit>
       <trans-unit id="e195639ebd7491676218b40af7aeafe3" approved="yes">
         <source>Save your data matching configuration</source>
-        <target state="final">Salveaza configurarea</target>
+        <target state="final">Salvează configurarea</target>
         <note>File: admin-dev/themes/default/template/controllers/import/helpers/view/view.tpl [Line: 81]</note>
       </trans-unit>
       <trans-unit id="4c41e0bd957698b58100a5c687d757d9" approved="yes">
         <source>Select all</source>
-        <target state="final">Selecteaza-le pe toate</target>
+        <target state="final">Selectează-le pe toate</target>
         <note>File: admin-dev/themes/default/template/helpers/list/list_footer.tpl [Line: 37]</note>
       </trans-unit>
       <trans-unit id="81f32b96f6626b8968e6a0f4a9bce62e" approved="yes">
         <source>Select the fields you would like to be required for this section.</source>
-        <target state="final">Selecteaza campurile care doresti sa fie obligatorii pentru aceasta sectiune.</target>
+        <target state="final">Selectează câmpurile care dorești să fie obligatorii pentru această secțiune.</target>
         <note>File: admin-dev/themes/default/template/helpers/required_fields.tpl [Line: 33]</note>
       </trans-unit>
       <trans-unit id="94966d90747b97d1f0f206c98a8b1ac3" approved="yes">
@@ -929,12 +929,12 @@ Totusi, clientii te pot contacta oricand in acest scop, prin intermediul formula
       </trans-unit>
       <trans-unit id="de3492070cd44f280a6f398dca2f1efb" approved="yes">
         <source>Sequences like "abc" or "6543" are easy to guess</source>
-        <target state="final">Secvente ca "abc" sau "6543" sunt usor de ghicit</target>
+        <target state="final">Secvente ca "abc" sau "6543" sunt ușor de ghicit</target>
         <note>File: install-dev/controllers/http/configure.php [Line: 244]</note>
       </trans-unit>
       <trans-unit id="0470d45929f27e1161330164c423b415" approved="yes">
         <source>Set required fields for this section</source>
-        <target state="final">Setare campuri obligatorii pentru aceasta sectiune</target>
+        <target state="final">Setare câmpuri obligatorii pentru această secțiune</target>
         <note>File: admin-dev/themes/default/template/helpers/required_fields.tpl [Line: 26]</note>
       </trans-unit>
       <trans-unit id="4493e821e06072415518bd7ae4077996" approved="yes">
@@ -944,12 +944,12 @@ Totusi, clientii te pot contacta oricand in acest scop, prin intermediul formula
       </trans-unit>
       <trans-unit id="bed5e315d09dedac517831b95571a7f4" approved="yes">
         <source>Short keyboard patterns are easy to guess</source>
-        <target state="final">Parolele compuse din sabloane scurte de taste sunt ușor de ghicit</target>
+        <target state="final">Parolele compuse din șabloane scurte de taste sunt ușor de ghicit</target>
         <note>File: install-dev/controllers/http/configure.php [Line: 240]</note>
       </trans-unit>
       <trans-unit id="dbcd43f8ba2bafd1bccc57fe9c8b5d7b" approved="yes">
         <source>Show SQL query</source>
-        <target state="final">Arata codul SQL</target>
+        <target state="final">Arată codul SQL</target>
         <note>File: admin-dev/themes/default/template/helpers/list/list_header.tpl [Line: 169]</note>
       </trans-unit>
       <trans-unit id="60adc330494a66981dec101c81e27f03" approved="yes">
@@ -959,7 +959,7 @@ Totusi, clientii te pot contacta oricand in acest scop, prin intermediul formula
       </trans-unit>
       <trans-unit id="43775ce1723057d9e3d21e5969324fd1" approved="yes">
         <source>Straight rows of keys are easy to guess</source>
-        <target state="final">Parolele create prin apasari de taste consecutive sunt usor de ghicit</target>
+        <target state="final">Parolele create prin apasari de taste consecutive sunt ușor de ghicit</target>
         <note>File: install-dev/controllers/http/configure.php [Line: 239]</note>
       </trans-unit>
       <trans-unit id="c43e0fd449c758dab8f891d8e19eb1a9" approved="yes">
@@ -1014,7 +1014,7 @@ Totusi, clientii te pot contacta oricand in acest scop, prin intermediul formula
       </trans-unit>
       <trans-unit id="9bfcf0be1757b83609e3cd7fc59fc7ea" approved="yes">
         <source>The customer will send a message from the contact form for any rectification and erasure requests, justifying his request.</source>
-        <target state="final">Pentru orice solicitare de rectificare sau stergere a datelor, clientul va trimite din formularul de contact un mesaj in care isi justifica cererea.</target>
+        <target state="final">Pentru orice solicitare de rectificare sau ștergere a datelor, clientul va trimite din formularul de contact un mesaj în care isi justifica cererea.</target>
         <note>File: modules/psgdpr/psgdpr.php [Line: 348]</note>
       </trans-unit>
       <trans-unit id="c5536e008327e8873c8daf321a088873" approved="yes">
@@ -1024,47 +1024,47 @@ Totusi, clientii te pot contacta oricand in acest scop, prin intermediul formula
       </trans-unit>
       <trans-unit id="e112201196d8a38cfe15031655647cb6" approved="yes">
         <source>There are %d warnings:</source>
-        <target state="final">Ai %d avertizari:</target>
+        <target state="final">Ai %d avertizări:</target>
         <note>File: admin-dev/themes/default/template/layout.tpl [Line: 87]</note>
       </trans-unit>
       <trans-unit id="c11321f9fb4112e493e86a1410745b32" approved="yes">
         <source>There is no Remove Data button in the customer account. Isn't this a requirement?</source>
-        <target state="final">Nu exista un buton 'Sterge datele mele personale' in contul de client. Nu este aceasta o cerinta?</target>
+        <target state="final">Nu există un buton 'Șterge datele mele personale' în contul de client. Nu este această o cerință?</target>
         <note>File: modules/psgdpr/psgdpr.php [Line: 351]</note>
       </trans-unit>
       <trans-unit id="de571168b7c4d4ab2c7826d2df1ec04b" approved="yes">
         <source>There is no consent confirmation checkbox in the contact form. Isn't this a requirement?</source>
-        <target state="final">Nu exista o bifa de confirmare a acordului in formularul de contact. Nu este aceasta o cerinta?</target>
+        <target state="final">Nu există o bifa de confirmare a acordului în formularul de contact. Nu este această o cerință?</target>
         <note>File: modules/psgdpr/psgdpr.php [Line: 338]</note>
       </trans-unit>
       <trans-unit id="f82c07eeaadf212c53a454cca4073e82" approved="yes">
         <source>There was an error on module uninstall. Please contact us through Addons website</source>
-        <target state="final">A aparut o eroare in timpul dezinstalarii modulului. Te rugam sa ne contactezi prin site-ul Addons</target>
+        <target state="final">A apărut o eroare în timpul dezinstalării modulului. Te rugăm să ne contactezi prin site-ul Addons</target>
         <note>File: modules/psgdpr/psgdpr.php [Line: 228]</note>
       </trans-unit>
       <trans-unit id="6a00e03023004b3330275e8d9842b54c" approved="yes">
         <source>This column must be set:</source>
-        <target state="final">Aceasta coloana trebuie configurata:</target>
+        <target state="final">Această coloana trebuie configurată:</target>
         <note>File: admin-dev/themes/default/template/controllers/import/helpers/view/view.tpl [Line: 94]</note>
       </trans-unit>
       <trans-unit id="954a21d373e3f1bd2446606700a37217" approved="yes">
         <source>This is a top-10 common password</source>
-        <target state="final">Aceasta parola este una dintre cele mai folosite zece parole</target>
+        <target state="final">Această parola este una dintre cele mai folosite zece parole</target>
         <note>File: install-dev/controllers/http/configure.php [Line: 247]</note>
       </trans-unit>
       <trans-unit id="f6e52aa06b58dd0d8855340b165c0b49" approved="yes">
         <source>This is a top-100 common password</source>
-        <target state="final">Aceasta parola este una dintre cele mai folosite o suta de parole</target>
+        <target state="final">Această parola este una dintre cele mai folosite o suta de parole</target>
         <note>File: install-dev/controllers/http/configure.php [Line: 248]</note>
       </trans-unit>
       <trans-unit id="0f4a64d2fecd6b4ab2c10d21313e02a6" approved="yes">
         <source>This is a very common password</source>
-        <target state="final">Aceasta este o parola foarte des intalnita</target>
+        <target state="final">Această este o parola foarte des întâlnită</target>
         <note>File: install-dev/controllers/http/configure.php [Line: 249]</note>
       </trans-unit>
       <trans-unit id="c92578d4545d5aceb430aed0c7285398" approved="yes">
         <source>This is similar to a commonly used password</source>
-        <target state="final">Aceasta este similara cu o parola folosita in mod obisnuit</target>
+        <target state="final">Această este similară cu o parola folosita în mod obișnuit</target>
         <note>File: install-dev/controllers/http/configure.php [Line: 250]</note>
       </trans-unit>
       <trans-unit id="ed5e8353dfc585f4c6b3a55d1a9fc01d" approved="yes">
@@ -1084,12 +1084,12 @@ Totusi, clientii te pot contacta oricand in acest scop, prin intermediul formula
       </trans-unit>
       <trans-unit id="e12167aa0a7698e6ebc92b4ce3909b53" approved="yes">
         <source>To</source>
-        <target state="final">Catre</target>
+        <target state="final">Către</target>
         <note>File: admin-dev/themes/default/template/helpers/list/list_header.tpl [Line: 365]</note>
       </trans-unit>
       <trans-unit id="ea067eb37801c5aab1a1c685eb97d601" approved="yes">
         <source>Total paid</source>
-        <target state="final">Total platit</target>
+        <target state="final">Total plătit</target>
         <note>File: modules/psgdpr/controllers/front/ExportDataToCsv.php [Line: 158]</note>
       </trans-unit>
       <trans-unit id="db205f01b4fd580fb5daa9072d96849d" approved="yes">
@@ -1124,27 +1124,27 @@ Totusi, clientii te pot contacta oricand in acest scop, prin intermediul formula
       </trans-unit>
       <trans-unit id="237c7b6874386141a095e321c9fdfd38" approved="yes">
         <source>Unselect all</source>
-        <target state="final">Deselecteaza-le pe toate</target>
+        <target state="final">Deselectează-le pe toate</target>
         <note>File: admin-dev/themes/default/template/helpers/list/list_footer.tpl [Line: 42]</note>
       </trans-unit>
       <trans-unit id="ffeed24e8e4fd763c1d0d02c6e5d6e15" approved="yes">
         <source>Upload file</source>
-        <target state="final">Incarca un fisier</target>
+        <target state="final">Încarcă un fișier</target>
         <note>File: admin-dev/themes/default/template/helpers/uploader/ajax.tpl [Line: 70]</note>
       </trans-unit>
       <trans-unit id="c7de86f69db264c3950d8ae46ed2e33f" approved="yes">
         <source>Upload files</source>
-        <target state="final">Incarca fisiere</target>
+        <target state="final">Încarcă fișiere</target>
         <note>File: admin-dev/themes/default/template/helpers/uploader/ajax.tpl [Line: 70]</note>
       </trans-unit>
       <trans-unit id="dd96380694cf9e241cba2b2ac4cf8c03" approved="yes">
         <source>Use a few words, avoid common phrases</source>
-        <target state="final">Foloseste cateva cuvinte evitand expresiile comune</target>
+        <target state="final">Folosește câteva cuvinte evitand expresiile comune</target>
         <note>File: install-dev/controllers/http/configure.php [Line: 259]</note>
       </trans-unit>
       <trans-unit id="37ffb1976d12530b5c07821baaf5be39" approved="yes">
         <source>Use a longer keyboard pattern with more turns</source>
-        <target state="final">Utilizeaza un sablon mai lung de taste, cu mai multe schimbari</target>
+        <target state="final">Utilizeaza un șablon mai lung de taste, cu mai multe schimbari</target>
         <note>File: install-dev/controllers/http/configure.php [Line: 241]</note>
       </trans-unit>
       <trans-unit id="516b34a4d2351006f3a0f39ccffccefa" approved="yes">
@@ -1189,37 +1189,37 @@ Totusi, clientii te pot contacta oricand in acest scop, prin intermediul formula
       </trans-unit>
       <trans-unit id="c804723ccdde3d7a46933b208c6f928d" approved="yes">
         <source>Wholesale price</source>
-        <target state="final">Pret de aprovizionare</target>
+        <target state="final">Preț de aprovizionare</target>
         <note>File: admin-dev/themes/default/template/controllers/suppliers/helpers/view/view.tpl [Line: 37]</note>
       </trans-unit>
       <trans-unit id="2605a817441c19cc88eb9e5d17845dc0" approved="yes">
         <source>You can add a comment here.</source>
-        <target state="final">Poti adauga un comentariu aici.</target>
+        <target state="final">Poți adaugă un comentariu aici.</target>
         <note>File: admin-dev/themes/default/template/controllers/customer_threads/helpers/view/view.tpl [Line: 151]</note>
       </trans-unit>
       <trans-unit id="009044df8c709bfdefa065ae7fa733e1" approved="yes">
         <source>You can upload a maximum of %s files</source>
-        <target state="final">Poti incarca maximum %s fisiere</target>
+        <target state="final">Poți încarcă maximum %s fișiere</target>
         <note>File: admin-dev/themes/default/template/helpers/uploader/simple.tpl [Line: 134]</note>
       </trans-unit>
       <trans-unit id="fe73eda0f6569ec502fe52716a648370" approved="yes">
         <source>You can't change the value of this configuration field in this store's context.</source>
-        <target state="final">Nu poti modifica valoarea acestui camp de configurare in contextul acestui magazin.</target>
+        <target state="final">Nu poți modifică valoarea acestui câmp de configurare în contextul acestui magazin.</target>
         <note>File: admin-dev/themes/default/template/helpers/options/options.tpl [Line: 335]</note>
       </trans-unit>
       <trans-unit id="6dc85b454944660cf96e7d0c2d171ee3" approved="yes">
         <source>You cannot have more than %s images in total. Please remove some of the current images before adding new ones.</source>
-        <target state="final">Nu poti avea mai mult de %s imagini in total. Te rugam sa elimini unele din imaginile curente inainte de adauga altele noi.</target>
+        <target state="final">Nu poți avea mai mult de %s imagini în total. Te rugăm să elimini unele din imaginile curente înainte de adaugă altele noi.</target>
         <note>File: admin-dev/themes/default/template/helpers/uploader/ajax.tpl [Line: 170]</note>
       </trans-unit>
       <trans-unit id="3fcbe6bd34e9279ec2c7b13adf7e4095" approved="yes">
         <source>You have reached the limit (%s) of files to upload, please remove files to continue uploading</source>
-        <target state="final">Ai atins limita de fisiere (%s) ce pot fi incarcate, te rugam sa elimini fisiere pentru a continua incarcarea</target>
+        <target state="final">Ai atins limita de fișiere (%s) ce pot fi încărcate, te rugăm să elimini fișiere pentru a continua încărcarea</target>
         <note>File: admin-dev/themes/default/template/helpers/uploader/simple.tpl [Line: 56]</note>
       </trans-unit>
       <trans-unit id="54524210ee89080b3da6c88a11c6d438" approved="yes">
         <source>You must use this syntax in your translations. Here are several examples:</source>
-        <target state="final">Trebuie sa folosesti aceasta sintaxa in traduceri. Iata cateva exemple:</target>
+        <target state="final">Trebuie să folosești această sintaxă în traduceri. Iata câteva exemple:</target>
         <note>File: admin-dev/themes/default/template/controllers/translations/helpers/view/translation_form.tpl [Line: 86]</note>
       </trans-unit>
       <trans-unit id="62acf0bc057112bf91cd1ff9f1426c6c" approved="yes">
@@ -1229,22 +1229,22 @@ Totusi, clientii te pot contacta oricand in acest scop, prin intermediul formula
       </trans-unit>
       <trans-unit id="e9c7e4df74077626f7e42797c65273c4" approved="yes">
         <source>and stay</source>
-        <target state="final">si ramanere</target>
+        <target state="final">și rămânere</target>
         <note>File: admin-dev/themes/default/template/helpers/list/list_header.tpl [Line: 206]</note>
       </trans-unit>
       <trans-unit id="399574be0ed95657dfac0e8d38374c62" approved="yes">
         <source>by ip address</source>
-        <target state="final">dupa adresa ip</target>
+        <target state="final">după adresa ip</target>
         <note>File: admin-dev/themes/new-theme/template/components/layout/search_form.tpl [Line: 46]</note>
       </trans-unit>
       <trans-unit id="855d2bf59043b81e76bc931e685a4f58" approved="yes">
         <source>by name</source>
-        <target state="final">dupa nume</target>
+        <target state="final">după nume</target>
         <note>File: admin-dev/themes/new-theme/template/components/layout/search_form.tpl [Line: 45]</note>
       </trans-unit>
       <trans-unit id="921d54865f8169b84c90d4335c256494" approved="yes">
         <source>filter by %s</source>
-        <target state="final">filtreaza dupa %s</target>
+        <target state="final">filtrează după %s</target>
         <note>File: classes/controller/AdminController.php [Line: 771]</note>
       </trans-unit>
       <trans-unit id="dd8921b41e0279a02c6a26a509241700" approved="yes">
@@ -1254,7 +1254,7 @@ Totusi, clientii te pot contacta oricand in acest scop, prin intermediul formula
       </trans-unit>
       <trans-unit id="d77a48a51f8c62087570ab8f9d6ca55a" approved="yes">
         <source>search...</source>
-        <target state="final">cauta...</target>
+        <target state="final">caută...</target>
         <note>File: admin-dev/themes/default/template/helpers/tree/tree_toolbar_search.tpl [Line: 32]</note>
       </trans-unit>
       <trans-unit id="01b6e20344b68835c5ed1ddedf20d531" approved="yes">

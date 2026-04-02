@@ -4,17 +4,17 @@
     <body>
       <trans-unit id="d3b206d196cd6be3a2764c1fb90b200f" approved="yes">
         <source>Delete selected</source>
-        <target state="final">Stergere elemente selectate</target>
+        <target state="final">Ștergere elemente selectate</target>
         <note>File: controllers/admin/AdminCarriersController.php [Line: 56]</note>
       </trans-unit>
       <trans-unit id="1412292b09d3cd39f32549afb1f5f102" approved="yes">
         <source>Delete selected item?</source>
-        <target state="final">Stergi articolul selectat?</target>
+        <target state="final">Ștergi articolul selectat?</target>
         <note>File: controllers/admin/AdminCartRulesController.php [Line: 863]</note>
       </trans-unit>
       <trans-unit id="e25f0ecd41211b01c83e5fec41df4fe7" approved="yes">
         <source>Delete selected items?</source>
-        <target state="final">Se sterg elementele selectate?</target>
+        <target state="final">Se șterg elementele selectate?</target>
         <note>File: controllers/admin/AdminCarriersController.php [Line: 57]</note>
       </trans-unit>
       <trans-unit id="4f29d8c727dcf2022ac241cb96c31083" approved="yes">
@@ -49,47 +49,47 @@
       </trans-unit>
       <trans-unit id="178a5f69a18bd94dc2bbafbd074be1f2" approved="yes">
         <source>Note that this page is available in a single shop context only. Switch context to work on it.</source>
-        <target state="final">Noteaza faptul ca aceasta pagina este disponibila numai in contextul unui magazin individual. Schimba contextul pentru a o putea accesa.</target>
+        <target state="final">Noteaza faptul ca această pagina este disponibilă numai în contextul unui magazin individual. Schimba contextul pentru a o putea accesa.</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Sell/Catalog/Stock/overview.html.twig [Line: 37]</note>
       </trans-unit>
       <trans-unit id="233a1ce8ca8efc5c0f45bf2df346812a" approved="yes">
         <source>Note that this page is available in all shops context only, this is why your context has just switched.</source>
-        <target state="final">Noteaza faptul ca aceasta pagina este disponibila numai in contextul tuturor magazinelor, de aceea s-a schimbat contextul.</target>
+        <target state="final">Noteaza faptul ca această pagina este disponibilă numai în contextul tuturor magazinelor, de aceea s-a schimbat contextul.</target>
         <note>File: src/PrestaShopBundle/Controller/Admin/Improve/International/LanguageController.php [Line: 88]</note>
       </trans-unit>
       <trans-unit id="f6916f4f1a268d4d0014ce47a2dfc3e4" approved="yes">
         <source>Password should be at least %length% characters long.</source>
-        <target state="final">Parola trebuie sa contina minimum %length% caractere.</target>
+        <target state="final">Parola trebuie să conțină minimum %length% caractere.</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Sell/Customer/CustomerType.php [Line: 260]</note>
       </trans-unit>
       <trans-unit id="c98f13b5535852631344d794fdfba5a5" approved="yes">
         <source>The key must be %length% characters long.</source>
-        <target state="final">Cheia trebuie sa aiba o lungime de %length% caractere.</target>
+        <target state="final">Cheia trebuie să aibă o lungime de %length% caractere.</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Webservice/WebserviceKeyType.php [Line: 95]</note>
       </trans-unit>
       <trans-unit id="7ac170f2b47dbf7d4c5cd38449093c2b" approved="yes">
         <source>This field will be modified for all shops in this shop group:</source>
-        <target state="final">Acest camp va fi modificat pentru toate magazinele din acest grup de magazine:</target>
+        <target state="final">Acest câmp va fi modificat pentru toate magazinele din acest grup de magazine:</target>
         <note>File: admin-dev/themes/new-theme/template/header.tpl [Line: 50]</note>
       </trans-unit>
       <trans-unit id="2fc6204d2ca7e856d9e4844d2786f053" approved="yes">
         <source>This field will be modified for all your shops.</source>
-        <target state="final">Acest camp va fi modificat pentru toate magazinele tale</target>
+        <target state="final">Acest câmp va fi modificat pentru toate magazinele tale</target>
         <note>File: admin-dev/themes/new-theme/template/header.tpl [Line: 48]</note>
       </trans-unit>
       <trans-unit id="fe0ae15c8f93a5335f0991accadd13ca" approved="yes">
         <source>This field will be modified for this shop:</source>
-        <target state="final">Acest camp va fi modificat pentru acest magazin:</target>
+        <target state="final">Acest câmp va fi modificat pentru acest magazin:</target>
         <note>File: admin-dev/themes/new-theme/template/header.tpl [Line: 52]</note>
       </trans-unit>
       <trans-unit id="0269f018a765e0d969747a1871c109a1" approved="yes">
         <source>This page is only compatible in a single-store context. Please select a store in the multistore header.</source>
-        <target state="final">Aceasta pagina este compatibila numai cu un context de magazin individual. Te rugam sa alegi un magazin din antetul multi-magazin.</target>
+        <target state="final">Această pagina este compatibilă numai cu un context de magazin individual. Te rugăm să alegi un magazin din antetul multi-magazin.</target>
         <note>File: src/PrestaShopBundle/Controller/Admin/Sell/Catalog/Product/ProductController.php [Line: 1833]</note>
       </trans-unit>
       <trans-unit id="d522a12a111ad26cc15c16da99cebef6" approved="yes">
         <source>This product is not associated with the store selected in the multistore header, please select another one.</source>
-        <target state="final">Acest produs nu este asociat cu magazinul selectat in antetul multi-magazin. Te rugam sa selectezi altul.</target>
+        <target state="final">Acest produs nu este asociat cu magazinul selectat în antetul multi-magazin. Te rugăm să selectezi altul.</target>
         <note>File: src/PrestaShopBundle/Controller/Admin/Sell/Catalog/Product/ProductController.php [Line: 1816]</note>
       </trans-unit>
     </body>

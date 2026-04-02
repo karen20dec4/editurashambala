@@ -4,12 +4,12 @@
     <body>
       <trans-unit id="eae99cd6a931f3553123420b16383812" approved="yes">
         <source>All best sellers</source>
-        <target state="final">Toate produsele din topul vanzarilor</target>
+        <target state="final">Toate produsele din topul vânzărilor</target>
         <note>File: modules/ps_bestsellers/views/templates/hook/ps_bestsellers.tpl [Line: 32]</note>
       </trans-unit>
       <trans-unit id="d7b2933ba512ada478c97fa43dd7ebe6" approved="yes">
         <source>Best Sellers</source>
-        <target state="final">Cele mai cumparate</target>
+        <target state="final">Cele mai cumpărate</target>
         <note>File: modules/ps_bestsellers/views/templates/hook/ps_bestsellers.tpl [Line: 26]</note>
       </trans-unit>
     </body>

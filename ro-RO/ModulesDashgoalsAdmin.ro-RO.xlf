@@ -14,12 +14,12 @@
       </trans-unit>
       <trans-unit id="8c804960da61b637c548c951652b0cac" approved="yes">
         <source>Average Cart Value</source>
-        <target state="final">Cosul mediu</target>
+        <target state="final">Coșul mediu</target>
         <note>File: modules/dashgoals/views/templates/hook/dashboard_zone_two.tpl [Line: 64]</note>
       </trans-unit>
       <trans-unit id="71241798130f714cbd2786df3da2cf0b" approved="yes">
         <source>Average cart value</source>
-        <target state="final">Valoarea medie a cosului</target>
+        <target state="final">Valoarea medie a coșului</target>
         <note>File: modules/dashgoals/dashgoals.php [Line: 192]</note>
       </trans-unit>
       <trans-unit id="3bb1503332637805beddb73a2dd1fe1b" approved="yes">
@@ -44,7 +44,7 @@
       </trans-unit>
       <trans-unit id="f8ba4f136132be32e4ddfdcc42ea44ab" approved="yes">
         <source>Enrich your stats: add a block with your store’s forecast to always be one step ahead!</source>
-        <target state="final">Imbogateste-ti statisticile: adauga un bloc cu prognoza activitatii magazinului tau, pentru a fi intotdeauna cu un pas inainte!</target>
+        <target state="final">Îmbogățește-ti statisticile: adaugă un bloc cu prognoza activității magazinului tău, pentru a fi întotdeauna cu un pas înainte!</target>
         <note>File: modules/dashgoals/dashgoals.php [Line: 49]</note>
       </trans-unit>
       <trans-unit id="659e59f062c75f81259d22786d6c44aa" approved="yes">
@@ -59,7 +59,7 @@
       </trans-unit>
       <trans-unit id="9ac642c5ef334ea05256563f921bb304" approved="yes">
         <source>Goal exceeded</source>
-        <target state="final">Obiective indeplinite</target>
+        <target state="final">Obiective îndeplinite</target>
         <note>File: modules/dashgoals/dashgoals.php [Line: 197]</note>
       </trans-unit>
       <trans-unit id="7c103c9bbbaecee07ca898ed65667cbf" approved="yes">

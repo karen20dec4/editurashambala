@@ -19,12 +19,12 @@
       </trans-unit>
       <trans-unit id="3b5b0f1e26d98a827ef82af202c2e85b" approved="yes">
         <source>Reset password</source>
-        <target state="final">Reseteaza parola</target>
+        <target state="final">Resetează parola</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Login/ResetPasswordType.php [Line: 94]</note>
       </trans-unit>
       <trans-unit id="32fe59513f5bbdd353b4527cc6af55ce" approved="yes">
         <source>Reset your password</source>
-        <target state="final">Reseteaza parola</target>
+        <target state="final">Resetează parola</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Login/ResetPasswordType.php [Line: 103]</note>
       </trans-unit>
       <trans-unit id="733ae3eecadd5777cea5ce9a32379d7a" approved="yes">
@@ -34,7 +34,7 @@
       </trans-unit>
       <trans-unit id="77dcc4123443269bb7d3e1e5912439df" approved="yes">
         <source>Stay logged in</source>
-        <target state="final">Raman conectat</target>
+        <target state="final">Rămân conectat</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Login/LoginType.php [Line: 83]</note>
       </trans-unit>
     </body>

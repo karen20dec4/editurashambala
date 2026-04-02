@@ -19,12 +19,12 @@
       </trans-unit>
       <trans-unit id="b52bf50c73995780892b9945ddc98708" approved="yes">
         <source>An error occured while trying to check your file permissions. Please adjust your permissions to allow PrestaShop to write a file in your root directory.</source>
-        <target state="final">A aparut o eroare la verificarea permisiunilor fisierului. Te rugam sa reglezi permisiunile pentru a permite PrestaShop sa scrie un fisier in directorul sursa.</target>
+        <target state="final">A apărut o eroare la verificarea permisiunilor fișierului. Te rugăm să reglezi permisiunile pentru a permite PrestaShop să scrie un fișier în directorul sursa.</target>
         <note>File: modules/gsitemap/gsitemap.php [Line: 873]</note>
       </trans-unit>
       <trans-unit id="03f772c9541dddad66266c0cf698bba6" approved="yes">
         <source>Ask your hosting provider to setup a "Cron job" to load the following URL at the time you would like:</source>
-        <target state="final">Cereti providerului de hosting sa seteze o programare de cron care sa incarce urmatorul URL la intervalul de timp dorit:</target>
+        <target state="final">Cereți providerului de hosting să seteze o programare de cron care să încarce urmatorul URL la intervalul de timp dorit:</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 127]</note>
       </trans-unit>
       <trans-unit id="957d27165d1dc5947fb00e57967ffcce" approved="yes">
@@ -34,31 +34,31 @@
       </trans-unit>
       <trans-unit id="b7d7436a18bf546dd6438d92218868c1" approved="yes">
         <source>Check all</source>
-        <target state="final">Bifeaza tot</target>
+        <target state="final">Bifează tot</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 137]</note>
       </trans-unit>
       <trans-unit id="5a61d69bfc495937fc43ae6004ebfbfd" approved="yes">
         <source>Configure your sitemap</source>
-        <target state="final">Configureaza sitemap-ul</target>
+        <target state="final">Configurează sitemap-ul</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 83]</note>
       </trans-unit>
       <trans-unit id="6d37779958434303f8397436a1484ed8" approved="yes">
         <source>For a better use of the module, please make sure that you have</source>
-        <target state="final">Pentru utilizarea optima a acestui modul, verifica ca urmatoarele conditii sunt indeplinite</target>
+        <target state="final">Pentru utilizarea optima a acestui modul, verifică ca urmatoarele condiții sunt îndeplinite</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 67]</note>
       </trans-unit>
       <trans-unit id="8123c8ac806194dca71afdba4dad85a3" approved="yes">
         <source>Generate sitemap</source>
-        <target state="final">Genereaza sitemap</target>
+        <target state="final">Generează sitemap</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 111]</note>
       </trans-unit>
       <trans-unit id="400b56170a529d4644b068ade0a6e84f" approved="yes">
         <source>Generate your Google sitemap file and keep it up to date with this module.</source>
-        <target state="final">Genereaza fisierul cu harta site-ului pentru Google si mentine-l la zi cu acest modul.</target>
+        <target state="final">Generează fișierul cu harta site-ului pentru Google și menține-l la zi cu acest modul.</target>
       </trans-unit>
       <trans-unit id="53fdf9abbbe9a13fccaf2a6dd5b6220f" approved="yes">
         <source>Generating a sitemap can take several minutes</source>
-        <target state="final">Generarea unui fisier de sitemap poate dura cateva minute</target>
+        <target state="final">Generarea unui fișier de sitemap poate dura câteva minute</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 114]</note>
       </trans-unit>
       <trans-unit id="3aaaafde6f9b2701f9e6eb9292e95521" approved="yes">
@@ -68,22 +68,22 @@
       </trans-unit>
       <trans-unit id="7f751d19f85d49a411d5691f5bb0b5f2" approved="yes">
         <source>How often do you update your store?</source>
-        <target state="final">Cat de des actualizezi datele din magazin?</target>
+        <target state="final">Cât de des actualizezi datele din magazin?</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 86]</note>
       </trans-unit>
       <trans-unit id="0cbc12a507b5e6c5e2cd4fe3f7a62d1f" approved="yes">
         <source>Indicate the pages that you do not want to include in your sitemap files:</source>
-        <target state="final">Indica paginile pe care doresti sa le excluzi din sitemap:</target>
+        <target state="final">Indică paginile pe care dorești să le excluzi din sitemap:</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 97]</note>
       </trans-unit>
       <trans-unit id="a82be0f551b8708bc08eb33cd9ded0cf" approved="yes">
         <source>Information</source>
-        <target state="final">Informatii</target>
+        <target state="final">Informații</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 122]</note>
       </trans-unit>
       <trans-unit id="ad71f6d43a4db5fe6bf961882adfa113" approved="yes">
         <source>It will automatically generate your XML sitemaps.</source>
-        <target state="final">Iti va genera automat fisierele XML de sitemap.</target>
+        <target state="final">Îți va genera automat fișierele XML de sitemap.</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 129]</note>
       </trans-unit>
       <trans-unit id="6caa369fd774beef106abbc5cc1e3368" approved="yes">
@@ -93,41 +93,41 @@
       </trans-unit>
       <trans-unit id="bdf0482e95f48fd33fae3765df4dcf06" approved="yes">
         <source>Please set up the following sitemap URL in your Google Webmaster account:</source>
-        <target state="final">Seteaza urmatoarea adresa URL pentru sitemap in contul tau de Google Webmaster:</target>
+        <target state="final">Seteaza urmatoarea adresa URL pentru sitemap în contul tău de Google Webmaster:</target>
       </trans-unit>
       <trans-unit id="94880e11ec8ba05c8b71353e9281851f" approved="yes">
         <source>Several sitemap files will be generated depending on how your server is configured and on the number of activated products in your catalog.</source>
-        <target state="final">Va fi generat un numar de fisiere de sitemap, in functie de configurarea serverului si de numarul de produse active din catalog.</target>
+        <target state="final">Va fi generat un număr de fișiere de sitemap, în funcție de configurarea serverului și de numărul de produse active din catalog.</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 84]</note>
       </trans-unit>
       <trans-unit id="aa17b80751f4ae53ab8e3ed2fe99e94d" approved="yes">
         <source>Sitemaps were already created.</source>
-        <target state="final">Hartile au fost deja create.</target>
+        <target state="final">Hărțile au fost deja create.</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 39]</note>
       </trans-unit>
       <trans-unit id="8ef76e3a7b01e9b08a23ddf87cbc242e" approved="yes">
         <source>The above URL is the master sitemap file. It refers to the following sub-sitemap files:</source>
-        <target state="final">Adresa URL de mai sus este a fisierului master. Se refera la urmatoarele fisiere cu sitemap partial:</target>
+        <target state="final">Adresa URL de mai sus este a fișierului master. Se refera la urmatoarele fișiere cu sitemap partial:</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 49]</note>
       </trans-unit>
       <trans-unit id="b79b56dbede0077a92563175fda9b54f" approved="yes">
         <source>This shop has no sitemap yet.</source>
-        <target state="final">Acest magazin nu are inca sitemap.</target>
+        <target state="final">Acest magazin nu are încă sitemap.</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 59]</note>
       </trans-unit>
       <trans-unit id="13a3549902fb75af1df329df5f3b265a" approved="yes">
         <source>Uncheck all</source>
-        <target state="final">Debifeaza tot</target>
+        <target state="final">Debifează tot</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 138]</note>
       </trans-unit>
       <trans-unit id="a331b19ce5be82a91e1e60a091e81212" approved="yes">
         <source>Using the form above (as often as needed)</source>
-        <target state="final">Folosind formularul de mai sus (de cate ori este nevoie)</target>
+        <target state="final">Folosind formularul de mai sus (de câte ori este nevoie)</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 125]</note>
       </trans-unit>
       <trans-unit id="8156303464de0fba7cb8306cc768e998" approved="yes">
         <source>You can edit these limits in your php.ini file. For more details, please contact your hosting provider.</source>
-        <target state="final">Poti modifica aceste limite in fisierul php.ini. Pentru mai multe detalii, te rugam sa iti contactezi furnizorul de gazduire web.</target>
+        <target state="final">Poți modifică aceste limite în fișierul php.ini. Pentru mai multe detalii, te rugăm să îți contactezi furnizorul de gazduire web.</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 76]</note>
       </trans-unit>
       <trans-unit id="221dffef949377570bdc389d3f983c66" approved="yes">
@@ -137,7 +137,7 @@
       </trans-unit>
       <trans-unit id="0dbf904a2b27f036cf06741aad221ecc" approved="yes">
         <source>Your last update was made on this date:</source>
-        <target state="final">Ultima actualizare a fost facuta in aceasta data:</target>
+        <target state="final">Ultima actualizare a fost făcută în această data:</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 57]</note>
       </trans-unit>
       <trans-unit id="837075a7571640837495c90cb68e39b9" approved="yes">
@@ -147,12 +147,12 @@
       </trans-unit>
       <trans-unit id="6d63b2a47b35719206cdb45b2f3fff22" approved="yes">
         <source>Your sitemaps were successfully created. Please do not forget to setup the URL</source>
-        <target state="final">Fisierele sitemap au fost create. Nu uita sa setezi adresa URL</target>
+        <target state="final">Fișierele sitemap au fost create. Nu uita să setezi adresa URL</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 31]</note>
       </trans-unit>
       <trans-unit id="f9f90eeaf400d228facde6bc48da5cfb" approved="yes">
         <source>always</source>
-        <target state="final">intotdeauna</target>
+        <target state="final">întotdeauna</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 88]</note>
       </trans-unit>
       <trans-unit id="bea79186fd7af2da67e59b4b15df5a26" approved="yes">
@@ -167,7 +167,7 @@
       </trans-unit>
       <trans-unit id="9d934413d2737c2a15f58de573657ce3" approved="yes">
         <source>in your Google Webmaster account.</source>
-        <target state="final">in contul tau de Google Webmaster.</target>
+        <target state="final">în contul tău de Google Webmaster.</target>
       </trans-unit>
       <trans-unit id="708638881f3bac9d9c8c742c79502811" approved="yes">
         <source>monthly</source>
@@ -176,12 +176,12 @@
       </trans-unit>
       <trans-unit id="c7561db7a418dd39b2201dfe110ab4a4" approved="yes">
         <source>never</source>
-        <target state="final">niciodata</target>
+        <target state="final">niciodată</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 94]</note>
       </trans-unit>
       <trans-unit id="4a11fc05ed694c195f0703605b64da90" approved="yes">
         <source>weekly</source>
-        <target state="final">saptamanal</target>
+        <target state="final">săptămânal</target>
         <note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 91]</note>
       </trans-unit>
       <trans-unit id="1bf712896e6077fa0b708e911d8ee0b3" approved="yes">

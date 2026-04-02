@@ -124,7 +124,7 @@
       </trans-unit>
       <trans-unit id="675056ad1441b6375b2c5abd48c27ef1" approved="yes">
         <source>Depth</source>
-        <target state="final">Adancime</target>
+        <target state="final">Adâncime</target>
         <note>File: classes/lang/KeysReference/FeatureLang.php [Line: 28]</note>
       </trans-unit>
       <trans-unit id="8a19a741babf557d260bd74b2474a940" approved="yes">
@@ -154,7 +154,7 @@
       </trans-unit>
       <trans-unit id="eec6c4bdbd339edf8cbea68becb85244" approved="yes">
         <source>Height</source>
-        <target state="final">Inaltime</target>
+        <target state="final">Înălțime</target>
         <note>File: classes/lang/KeysReference/FeatureLang.php [Line: 26]</note>
       </trans-unit>
       <trans-unit id="d20caec3b48a1eef164cb4ca81ba2587" approved="yes">
@@ -214,7 +214,7 @@
       </trans-unit>
       <trans-unit id="9fc2d28c05ed9eb1d75ba4465abf15a9" approved="yes">
         <source>Properties</source>
-        <target state="final">Proprietati</target>
+        <target state="final">Proprietăți</target>
         <note>File: classes/lang/KeysReference/FeatureLang.php [Line: 32]</note>
       </trans-unit>
       <trans-unit id="ee38e4d5dd68c4e440825018d549cb47" approved="yes">
@@ -224,7 +224,7 @@
       </trans-unit>
       <trans-unit id="4cfbb125e9878528bab91d12421134d8" approved="yes">
         <source>Rock</source>
-        <target state="final">Cenusiu</target>
+        <target state="final">Cenușiu</target>
         <note>File: classes/lang/KeysReference/FeatureValueLang.php [Line: 52]</note>
       </trans-unit>
       <trans-unit id="5dbc98dcc983a70728bd082d1a47546e" approved="yes">
@@ -234,12 +234,12 @@
       </trans-unit>
       <trans-unit id="e696b64a5c32e901115dea05abd75afc" approved="yes">
         <source>Shoe size</source>
-        <target state="final">Marime de incaltaminte</target>
+        <target state="final">Mărime de încălțăminte</target>
         <note>File: classes/lang/KeysReference/AttributeGroupLang.php [Line: 27]</note>
       </trans-unit>
       <trans-unit id="6447ac704069175c7bee940fbefdc6c6" approved="yes">
         <source>Short Dress</source>
-        <target state="final">Rochie scurta</target>
+        <target state="final">Rochie scurtă</target>
         <note>File: classes/lang/KeysReference/FeatureValueLang.php [Line: 62]</note>
       </trans-unit>
       <trans-unit id="818c50db4c174e9a0c972f343c21cdd5" approved="yes">
@@ -259,7 +259,7 @@
       </trans-unit>
       <trans-unit id="be181575a12020428018676dedd91f9d" approved="yes">
         <source>Straw</source>
-        <target state="final">Croset</target>
+        <target state="final">Croșet</target>
         <note>File: classes/lang/KeysReference/FeatureValueLang.php [Line: 40]</note>
       </trans-unit>
       <trans-unit id="4c1c7d945fcd04d68bd3b3f1d99a55a1" approved="yes">

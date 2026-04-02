@@ -4,27 +4,27 @@
     <body>
       <trans-unit id="74cda5a02df704cc5c3e8fee7fc0f7bc" approved="yes">
         <source>(1 purchase / %d visits)</source>
-        <target state="final">(1 cumparatura / %d vizite)</target>
+        <target state="final">(1 cumpărătură / %d vizite)</target>
         <note>File: modules/statscatalog/statscatalog.php [Line: 175]</note>
       </trans-unit>
       <trans-unit id="65275d1b04037d8c8e42425002110363" approved="yes">
         <source>Average number of images:</source>
-        <target state="final">Numar mediu de imagini:</target>
+        <target state="final">Număr mediu de imagini:</target>
         <note>File: modules/statscatalog/statscatalog.php [Line: 211]</note>
       </trans-unit>
       <trans-unit id="85f179d4142ca061d49605a7fffdc09d" approved="yes">
         <source>Average number of page visits:</source>
-        <target state="final">Numar mediu de pagini vizitate:</target>
+        <target state="final">Număr mediu de pagini vizitate:</target>
         <note>File: modules/statscatalog/statscatalog.php [Line: 208]</note>
       </trans-unit>
       <trans-unit id="05ff4bfc3baf0acd31a72f1ac754de04" approved="yes">
         <source>Average number of purchases:</source>
-        <target state="final">Numar mediu de cumparaturi:</target>
+        <target state="final">Număr mediu de cumpărături:</target>
         <note>File: modules/statscatalog/statscatalog.php [Line: 209]</note>
       </trans-unit>
       <trans-unit id="1099377f1598a0856e2457a5145d89c2" approved="yes">
         <source>Average price (base price):</source>
-        <target state="final">Pret mediu (pret de baza):</target>
+        <target state="final">Preț mediu (preț de baza):</target>
         <note>File: modules/statscatalog/statscatalog.php [Line: 205]</note>
       </trans-unit>
       <trans-unit id="cf3aa21c6a2147ddbd86f34091daeccd" approved="yes">
@@ -44,17 +44,17 @@
       </trans-unit>
       <trans-unit id="082d537edb8c61539b9f266eb331c88e" approved="yes">
         <source>Defines the average conversion rate for the product page. It is possible to purchase a product without viewing the product page, so this rate can be greater than 1.</source>
-        <target state="final">Defineste rata medie de conversie pentru pagina de produs. Este posibil sa fie cumparat un produs fara a vizita pagina produsului, deci rata poate fi mai mare de 1.</target>
+        <target state="final">Definește rata medie de conversie pentru pagina de produs. Este posibil să fie cumpărat un produs fără a vizita pagina produsului, deci rata poate fi mai mare de 1.</target>
         <note>File: modules/statscatalog/statscatalog.php [Line: 218]</note>
       </trans-unit>
       <trans-unit id="8e7c9a35104a5a68199678bd6bc5d187" approved="yes">
         <source>Edit / View</source>
-        <target state="final">Modifica/ Vezi</target>
+        <target state="final">Modifică/ Vezi</target>
         <note>File: modules/statscatalog/statscatalog.php [Line: 230]</note>
       </trans-unit>
       <trans-unit id="020439554b871a3d6dc200f838daa280" approved="yes">
         <source>Enrich your stats, have a look at your catalog’s general statistics.</source>
-        <target state="final">Imbogateste statisticile adaugand o privire generala asupra statisticilor catalogului tau.</target>
+        <target state="final">Îmbogățește statisticile adăugând o privire generală asupra statisticilor catalogului tău.</target>
         <note>File: modules/statscatalog/statscatalog.php [Line: 52]</note>
       </trans-unit>
       <trans-unit id="c09d09e371989d89847049c9574b6b8e" approved="yes">
@@ -74,17 +74,17 @@
       </trans-unit>
       <trans-unit id="58a714d3e9bb2902a5b688c99bd4d8e6" approved="yes">
         <source>Products never purchased</source>
-        <target state="final">Produse niciodata cumparate</target>
+        <target state="final">Produse niciodată cumpărate</target>
         <note>File: modules/statscatalog/statscatalog.php [Line: 224]</note>
       </trans-unit>
       <trans-unit id="8725647ef741e5d48c1e6f652ce80b50" approved="yes">
         <source>Products never purchased:</source>
-        <target state="final">Produse niciodata cumparate:</target>
+        <target state="final">Produse niciodată cumpărate:</target>
         <note>File: modules/statscatalog/statscatalog.php [Line: 213]</note>
       </trans-unit>
       <trans-unit id="51b8891d531ad91128ba58c8928322ab" approved="yes">
         <source>Products never viewed:</source>
-        <target state="final">Produse niciodata vizualizate:</target>
+        <target state="final">Produse niciodată vizualizate:</target>
         <note>File: modules/statscatalog/statscatalog.php [Line: 212]</note>
       </trans-unit>
     </body>

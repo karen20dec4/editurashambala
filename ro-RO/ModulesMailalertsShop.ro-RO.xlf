@@ -4,17 +4,17 @@
     <body>
       <trans-unit id="900f8551b29793ecb604a545b2059cc1" approved="yes">
         <source>Your e-mail address is invalid</source>
-        <target state="final">Adresa de e-mail furnizata nu este valida</target>
+        <target state="final">Adresa de e-mail furnizata nu este validă</target>
         <note>Line: 153</note>
       </trans-unit>
       <trans-unit id="bb51a155575b81f4a07f7a9bafdc3b01" approved="yes">
         <source>You already have an alert for this product</source>
-        <target state="final">Exista deja o alerta pentru acest produs</target>
+        <target state="final">Există deja o alerta pentru acest produs</target>
         <note>Line: 120</note>
       </trans-unit>
       <trans-unit id="61172eb93737ebf095d3fa02119ce1df" approved="yes">
         <source>Request notification registered</source>
-        <target state="final">Cererea de notificare inregistrata</target>
+        <target state="final">Cererea de notificare înregistrată</target>
         <note>Line: 145</note>
       </trans-unit>
     </body>
@@ -23,7 +23,7 @@
     <body>
       <trans-unit id="8229eb3bbcf499e71184b4825fda2f05" approved="yes">
         <source>Remove mail alert</source>
-        <target state="final">Elimina alerta de e-mail</target>
+        <target state="final">Elimină alerta de e-mail</target>
         <note>Line: 31</note>
       </trans-unit>
     </body>

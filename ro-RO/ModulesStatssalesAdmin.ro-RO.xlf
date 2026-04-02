@@ -14,17 +14,17 @@
       </trans-unit>
       <trans-unit id="875c961c33f0a7b99577b1a370d2cfc4" approved="yes">
         <source>Enrich your stats, add graphics presenting the evolution of your sales and orders.</source>
-        <target state="final">Imbogateste statisticile adaugand grafice ale evolutiei vanzarilor si comenzilor.</target>
+        <target state="final">Îmbogățește statisticile adăugând grafice ale evoluției vânzărilor și comenzilor.</target>
         <note>File: modules/statssales/statssales.php [Line: 64]</note>
       </trans-unit>
       <trans-unit id="fdfa8599f3887bef99e9572f3611260f" approved="yes">
         <source>In your Back Office, you can modify the following order statuses: Awaiting Check Payment, Payment Accepted, Preparation in Progress, Shipping, Delivered, Canceled, Refund, Payment Error, Out of Stock, and Awaiting Bank Wire Payment.</source>
-        <target state="final">In interfata de administrare poti modifica urmatoarele stadii de comenzi: Asteapta plata cecului, Plata acceptata, In pregatire, Se livreaza, Livrata, Anulata, Rambursare, Eroare de plata, Stoc epuizat si Asteapta transferul bancar.</target>
+        <target state="final">În interfață de administrare poți modifică urmatoarele stadii de comenzi: Așteaptă plata cecului, Plata acceptată, În pregatire, Se livreaza, Livrată, Anulată, Rambursare, Eroare de plata, Stoc epuizat și Așteaptă transferul bancar.</target>
         <note>File: modules/statssales/statssales.php [Line: 104]</note>
       </trans-unit>
       <trans-unit id="da80af4de99df74dd59e665adf1fac8f" approved="yes">
         <source>No orders for this period.</source>
-        <target state="final">Nu sunt comenzi pentru aceasta perioada.</target>
+        <target state="final">Nu sunt comenzi pentru această perioada.</target>
         <note>File: modules/statssales/statssales.php [Line: 183]</note>
       </trans-unit>
       <trans-unit id="5cc6f5194e3ef633bcab4869d79eeefa" approved="yes">
@@ -44,12 +44,12 @@
       </trans-unit>
       <trans-unit id="17833fb3783b26e0a9bc8b21ee85302a" approved="yes">
         <source>Percentage of orders per status.</source>
-        <target state="final">Procentajul comenzilor in functie de stadiu.</target>
+        <target state="final">Procentajul comenzilor în funcție de stadiu.</target>
         <note>File: modules/statssales/statssales.php [Line: 253]</note>
       </trans-unit>
       <trans-unit id="c8be451a5698956a0e78b5c2caab4821" approved="yes">
         <source>Products bought</source>
-        <target state="final">Produse cumparate</target>
+        <target state="final">Produse cumpărate</target>
         <note>File: modules/statssales/statssales.php [Line: 245]</note>
       </trans-unit>
       <trans-unit id="b52b44c9d23e141b067d7e83b44bb556" approved="yes">
@@ -59,37 +59,37 @@
       </trans-unit>
       <trans-unit id="45c4b3e103155326596d6ccd2fea0f25" approved="yes">
         <source>Sales and orders</source>
-        <target state="final">Vanzari si comenzi</target>
+        <target state="final">Vânzări și comenzi</target>
         <note>File: modules/statssales/statssales.php [Line: 63]</note>
       </trans-unit>
       <trans-unit id="497a2a4cf0a780ff5b60a7a6e43ea533" approved="yes">
         <source>Sales currency: %s</source>
-        <target state="final">Moneda vanzarilor: %s</target>
+        <target state="final">Moneda vânzărilor: %s</target>
         <note>File: modules/statssales/statssales.php [Line: 250]</note>
       </trans-unit>
       <trans-unit id="ec3e48bb9aa902ba2ad608547fdcbfdc" approved="yes">
         <source>Sales:</source>
-        <target state="final">Vanzari:</target>
+        <target state="final">Vânzări:</target>
         <note>File: modules/statssales/statssales.php [Line: 162]</note>
       </trans-unit>
       <trans-unit id="85fa6dbe688e6187550abf46fb592e5b" approved="yes">
         <source>The following graphs represent the evolution of your shop's orders and sales turnover for a selected period.</source>
-        <target state="final">Urmatoarele grafice reprezinta evolutia comenzilor si a profitului magazinului tau pentru perioada aleasa.</target>
+        <target state="final">Urmatoarele grafice reprezintă evoluția comenzilor și a profitului magazinului tău pentru perioada aleasa.</target>
         <note>File: modules/statssales/statssales.php [Line: 110]</note>
       </trans-unit>
       <trans-unit id="4b75384caa4e6830c22f15e06e0bfac0" approved="yes">
         <source>These order statuses cannot be removed from the Back Office; however you have the option to add more.</source>
-        <target state="final">Aceste stadii de comenzi nu pot fi sterse, ai totusi optiunea de a adauga altele noi.</target>
+        <target state="final">Aceste stadii de comenzi nu pot fi șterse, ai totuși opțiunea de a adauga altele noi.</target>
         <note>File: modules/statssales/statssales.php [Line: 105]</note>
       </trans-unit>
       <trans-unit id="f6825178a5fef0a97dacf963409829f0" approved="yes">
         <source>You can view the distribution of order statuses below.</source>
-        <target state="final">Poti vedea mai jos distributia stadiilor comenzilor.</target>
+        <target state="final">Poți vedea mai jos distribuția stadiilor comenzilor.</target>
         <note>File: modules/statssales/statssales.php [Line: 175]</note>
       </trans-unit>
       <trans-unit id="631b6ed00d320b89b25e017586b918b8" approved="yes">
         <source>You should often consult this screen, as it allows you to quickly monitor your shop's sustainability. It also allows you to monitor multiple time periods.</source>
-        <target state="final">Ar fi bine sa consulti cat mai des aceasta pagina, pentru ca iti permite sa monitorizezi starea magazinului tau. De asemenea, iti permite sa monitorizezi pe multiple perioade.</target>
+        <target state="final">Ar fi bine să consulti cât mai des această pagina, pentru ca îți permite să monitorizezi starea magazinului tău. De asemenea, îți permite să monitorizezi pe multiple perioade.</target>
         <note>File: modules/statssales/statssales.php [Line: 111]</note>
       </trans-unit>
     </body>

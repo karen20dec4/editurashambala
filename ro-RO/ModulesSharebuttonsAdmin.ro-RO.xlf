@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="d3c92a24ab45afe985ee34e758787dd3" approved="yes">
         <source>Social media share buttons</source>
-        <target state="final">Butoane de partajare in retele sociale</target>
+        <target state="final">Butoane de partajare în rețele sociale</target>
         <note>File: modules/ps_sharebuttons/ps_sharebuttons.php [Line: 57]</note>
       </trans-unit>
     </body>

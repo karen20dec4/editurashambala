@@ -64,52 +64,52 @@
       </trans-unit>
       <trans-unit id="369b8db3e9651d0b5d8a13a5f7f9a53a" approved="yes">
         <source>Add a language</source>
-        <target state="final">Adauga o limba</target>
+        <target state="final">Adaugă o limba</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Translations/AddUpdateLanguageType.php [Line: 69]</note>
       </trans-unit>
       <trans-unit id="7ec515dc1920404871d8180791d589f2" approved="yes">
         <source>Add a new tax rule</source>
-        <target state="final">Adauga o noua regula de taxare</target>
+        <target state="final">Adaugă o noua regula de taxare</target>
         <note>File: controllers/admin/AdminTaxRulesGroupController.php [Line: 230]</note>
       </trans-unit>
       <trans-unit id="21e6a1298ab4cd040464d67a19d0f957" approved="yes">
         <source>Add new country</source>
-        <target state="final">Adauga o tara noua</target>
+        <target state="final">Adaugă o țară noua</target>
         <note>File: src/PrestaShopBundle/Controller/Admin/Improve/International/CountryController.php [Line: 195]</note>
       </trans-unit>
       <trans-unit id="076b68505282c6c0654708db343d6673" approved="yes">
         <source>Add new currency</source>
-        <target state="final">Adauga o moneda noua</target>
+        <target state="final">Adaugă o moneda noua</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/International/Currency/index.html.twig [Line: 30]</note>
       </trans-unit>
       <trans-unit id="f53b6aa000ea3aa0114e70c1f8737608" approved="yes">
         <source>Add new language</source>
-        <target state="final">Adauga o limba noua</target>
+        <target state="final">Adaugă o limba noua</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/International/Language/index.html.twig [Line: 29]</note>
       </trans-unit>
       <trans-unit id="71777469a202cba33a8985f7d5bf1d97" approved="yes">
         <source>Add new state</source>
-        <target state="final">Adauga un judet nou</target>
+        <target state="final">Adaugă un judet nou</target>
         <note>File: src/PrestaShopBundle/Controller/Admin/Improve/International/StateController.php [Line: 440]</note>
       </trans-unit>
       <trans-unit id="7c545d3243860a144f6d3410fadd3c08" approved="yes">
         <source>Add new tax</source>
-        <target state="final">Adauga o noua taxa</target>
+        <target state="final">Adaugă o noua taxa</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/International/Tax/index.html.twig [Line: 29]</note>
       </trans-unit>
       <trans-unit id="e7c7216c46ae0e04e2012a2137803cca" approved="yes">
         <source>Add new tax rules group</source>
-        <target state="final">Adauga un grup nou de reguli de taxare</target>
+        <target state="final">Adaugă un grup nou de reguli de taxare</target>
         <note>File: controllers/admin/AdminTaxRulesGroupController.php [Line: 81]</note>
       </trans-unit>
       <trans-unit id="77f1ebd0522a27ee9502ab13a242d823" approved="yes">
         <source>Add new zone</source>
-        <target state="final">Adauga zona noua</target>
+        <target state="final">Adaugă zona noua</target>
         <note>File: src/PrestaShopBundle/Controller/Admin/Improve/International/ZoneController.php [Line: 375]</note>
       </trans-unit>
       <trans-unit id="524d7e787cc63c50e0d1946ee8ef0bef" approved="yes">
         <source>Add or update a language</source>
-        <target state="final">Adauga sau actualizeaza o limba</target>
+        <target state="final">Adaugă sau actualizează o limba</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/International/Translations/Blocks/add_update_language.html.twig [Line: 57]</note>
       </trans-unit>
       <trans-unit id="665e1ad1c6657791cecb5b68008c7c00" approved="yes">
@@ -129,7 +129,7 @@
       </trans-unit>
       <trans-unit id="0379f900f3e0cdc8ff8d9ff7ed0bcef3" approved="yes">
         <source>Are you sure you want to restore default settings?</source>
-        <target state="final">Sigur doresti sa restaurezi setarile implicite?</target>
+        <target state="final">Sigur dorești să restaurezi setările implicite?</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/International/Currency/Blocks/form.html.twig [Line: 47]</note>
       </trans-unit>
       <trans-unit id="10d30c6319cf61386c878e4d9a3e09a2" approved="yes">
@@ -169,22 +169,22 @@
       </trans-unit>
       <trans-unit id="3be3001725eece62c9121b4d82c00d53" approved="yes">
         <source>Cannot find reference data for currency %isoCode%</source>
-        <target state="final">Nu se pot gasi date de referinta pentru moneda %isoCode%</target>
+        <target state="final">Nu se pot găsi date de referință pentru moneda %isoCode%</target>
         <note>File: src/PrestaShopBundle/Controller/Admin/Improve/International/CurrencyController.php [Line: 295]</note>
       </trans-unit>
       <trans-unit id="41661d8cebe0d3d2211676fd8aaf73f7" approved="yes">
         <source>Change the behavior of the price display for groups</source>
-        <target state="final">Modifica comportamentul preturilor afisate pentru grupuri</target>
+        <target state="final">Modifică comportamentul prețurilor afișate pentru grupuri</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Localization/ImportLocalizationPackType.php [Line: 120]</note>
       </trans-unit>
       <trans-unit id="6b900667b4a05ffdccc0bab5a20130a7" approved="yes">
         <source>Clear format</source>
-        <target state="final">Sterge formatul curent</target>
+        <target state="final">Șterge formatul curent</target>
         <note>File: admin-dev/themes/default/template/controllers/countries/helpers/form/form.tpl [Line: 48]</note>
       </trans-unit>
       <trans-unit id="e1686cbdbfefdc838c58469866922b6c" approved="yes">
         <source>Close all fieldsets</source>
-        <target state="final">Inchide toate seturile de campuri</target>
+        <target state="final">Închide toate seturile de câmpuri</target>
         <note>File: controllers/admin/AdminTranslationsController.php [Line: 1593]</note>
       </trans-unit>
       <trans-unit id="e7b3c0acb7168c7969b03e8aebc67ce7" approved="yes">
@@ -194,17 +194,17 @@
       </trans-unit>
       <trans-unit id="0bd345b58335589d4c2fa1e50ae38619" approved="yes">
         <source>Contains states</source>
-        <target state="final">Contine judete/state/comitate</target>
+        <target state="final">Conține judete/state/comitate</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Locations/CountryType.php [Line: 156]</note>
       </trans-unit>
       <trans-unit id="41b72abcfb3ec32e91e9cfa775e49cbd" approved="yes">
         <source>Content to import</source>
-        <target state="final">Continut de importat</target>
+        <target state="final">Conținut de importat</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Localization/ImportLocalizationPackType.php [Line: 79]</note>
       </trans-unit>
       <trans-unit id="5aca31cb4d1fbb543b716cbaaf35c65f" approved="yes">
         <source>Core (no theme selected)</source>
-        <target state="final">Nucleu (nicio tema selectata)</target>
+        <target state="final">Nucleu (nicio tema selectată)</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Translations/ModifyTranslationsType.php [Line: 91]</note>
       </trans-unit>
       <trans-unit id="d43522f215ed8be730a542c8e1fdcff1" approved="yes">
@@ -214,32 +214,32 @@
       </trans-unit>
       <trans-unit id="790d59ef178acbc75d233bf4211763c6" approved="yes">
         <source>Countries</source>
-        <target state="final">Tari</target>
+        <target state="final">Țări</target>
         <note>File: controllers/admin/AdminCountriesController.php [Line: 192]</note>
       </trans-unit>
       <trans-unit id="59716c97497eb9694541f7c3d37b1a4d" approved="yes">
         <source>Country</source>
-        <target state="final">Tara</target>
+        <target state="final">Țară</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/International/Country/Blocks/form.html.twig [Line: 30]</note>
       </trans-unit>
       <trans-unit id="a86844187775f3d99ab7bad450a61d78" approved="yes">
         <source>Country identifier</source>
-        <target state="final">Identificatorul tarii</target>
+        <target state="final">Identificatorul țării</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Localization/AdvancedConfigurationType.php [Line: 57]</note>
       </trans-unit>
       <trans-unit id="3be0efaecb3514a14757b8beb4b5dbb3" approved="yes">
         <source>Country name</source>
-        <target state="final">Nume tara</target>
+        <target state="final">Nume țară</target>
         <note>File: controllers/admin/AdminCountriesController.php [Line: 202]</note>
       </trans-unit>
       <trans-unit id="f52c1ff75f69fa46ae947f0a3f653641" approved="yes">
         <source>Country options</source>
-        <target state="final">Optiuni pentru tari</target>
+        <target state="final">Opțiuni pentru țări</target>
         <note>File: controllers/admin/AdminCountriesController.php [Line: 59]</note>
       </trans-unit>
       <trans-unit id="c3132c1440736d46f6be937e45dc1be4" approved="yes">
         <source>Create an alternative currency</source>
-        <target state="final">Creeaza o moneda alternativa</target>
+        <target state="final">Creează o moneda alternativă</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Currencies/CurrencyType.php [Line: 106]</note>
       </trans-unit>
       <trans-unit id="586e27d3575f00e51ad43b66eb34e49f" approved="yes">
@@ -249,7 +249,7 @@
       </trans-unit>
       <trans-unit id="ac077b2c6d6a422f7f81a794d81f5509" approved="yes">
         <source>Customize symbol and format</source>
-        <target state="final">Personalizeaza simbolul si formatul</target>
+        <target state="final">Personalizează simbolul și formatul</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/International/Currency/Blocks/form.html.twig [Line: 37]</note>
       </trans-unit>
       <trans-unit id="534fd46732986cba0efeda8701592427" approved="yes">
@@ -269,27 +269,27 @@
       </trans-unit>
       <trans-unit id="aac4bf78b43b8b815119032038bbee97" approved="yes">
         <source>Default country</source>
-        <target state="final">Tara implicita</target>
+        <target state="final">Țară implicită</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Localization/LocalizationConfigurationType.php [Line: 99]</note>
       </trans-unit>
       <trans-unit id="94d7422ba3c5b0f2a35f50b048e51c6d" approved="yes">
         <source>Default currency</source>
-        <target state="final">Moneda implicita</target>
+        <target state="final">Moneda implicită</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Locations/CountryType.php [Line: 117]</note>
       </trans-unit>
       <trans-unit id="c96a77fb323a41898c3b6941a58dc741" approved="yes">
         <source>Default language</source>
-        <target state="final">Limba implicita</target>
+        <target state="final">Limba implicită</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Localization/LocalizationConfigurationType.php [Line: 76]</note>
       </trans-unit>
       <trans-unit id="a4f164d8b1b72c87b8ce558827bcd423" approved="yes">
         <source>Default store currency</source>
-        <target state="final">Valuta implicita a magazinului</target>
+        <target state="final">Valuta implicită a magazinului</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Locations/CountryType.php [Line: 118]</note>
       </trans-unit>
       <trans-unit id="0071aa279bd1583754a544277740f047" approved="yes">
         <source>Delete item #</source>
-        <target state="final">Sterge articolul #</target>
+        <target state="final">Șterge articolul #</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Sell/Catalog/Manufacturer/Blocks/View/products.html.twig [Line: 52]</note>
       </trans-unit>
       <trans-unit id="af0f5bdc5be121b9307687aeeae38c17" approved="yes">
@@ -304,12 +304,12 @@
       </trans-unit>
       <trans-unit id="9686d924d9453d29fabc55346fc57808" approved="yes">
         <source>Display tax in the shopping cart</source>
-        <target state="final">Afiseaza taxa in cos</target>
+        <target state="final">Afișează taxa în coș</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Tax/TaxOptionsType.php [Line: 109]</note>
       </trans-unit>
       <trans-unit id="05820ffcf621269347a1c14d81d20b77" approved="yes">
         <source>Display tax label (e.g. "Tax incl.")</source>
-        <target state="final">Afiseaza eticheta privind taxele (de ex. "cu TVA")</target>
+        <target state="final">Afișează eticheta privind taxele (de ex. "cu TVA")</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Locations/CountryType.php [Line: 164]</note>
       </trans-unit>
       <trans-unit id="fff9ff80cc72d571e3d5115b421a27c3" approved="yes">
@@ -319,7 +319,7 @@
       </trans-unit>
       <trans-unit id="0c750dacc725ba4047374d2efc56ce3a" approved="yes">
         <source>Do you need a tax identification number?</source>
-        <target state="final">Este nevoie de un cod de identificare fiscala?</target>
+        <target state="final">Este nevoie de un cod de identificare fiscală?</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Locations/CountryType.php [Line: 160]</note>
       </trans-unit>
       <trans-unit id="756c1ac6c3e039a5b7ca1dc3bccc98c5" approved="yes">
@@ -334,7 +334,7 @@
       </trans-unit>
       <trans-unit id="345e1dd7e9d9ec15c68486caac639767" approved="yes">
         <source>Download pack data</source>
-        <target state="final">Descarca date pachet</target>
+        <target state="final">Descarcă date pachet</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Localization/ImportLocalizationPackType.php [Line: 96]</note>
       </trans-unit>
       <trans-unit id="e92cfa244b5eb9025d07522080468445" approved="yes">
@@ -344,12 +344,12 @@
       </trans-unit>
       <trans-unit id="b040fe53badd6b3784735f3d102df0bd" approved="yes">
         <source>Edit HTML version</source>
-        <target state="final">Editeaza versiunea HTML</target>
+        <target state="final">Editează versiunea HTML</target>
         <note>File: controllers/admin/AdminTranslationsController.php [Line: 2284]</note>
       </trans-unit>
       <trans-unit id="f7b45c7bf4ddee5d2270a74866d3fb52" approved="yes">
         <source>Edit symbol / format</source>
-        <target state="final">Editeaza simbolul/formatul</target>
+        <target state="final">Editează simbolul/formatul</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/International/Currency/Blocks/form.html.twig [Line: 43]</note>
       </trans-unit>
       <trans-unit id="67ed6ddb7d890b23166c1bef771e9451" approved="yes">
@@ -374,7 +374,7 @@
       </trans-unit>
       <trans-unit id="783453d461b47241396594776bef68de" approved="yes">
         <source>Enable tax</source>
-        <target state="final">Activeaza taxa</target>
+        <target state="final">Activează taxa</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Tax/TaxOptionsType.php [Line: 92]</note>
       </trans-unit>
       <trans-unit id="8ed78ce61d50323c845e812aaccf247a" approved="yes">
@@ -389,7 +389,7 @@
       </trans-unit>
       <trans-unit id="6e4fd86b4ea240672daa3c2fe1118fe0" approved="yes">
         <source>Expand all fieldsets</source>
-        <target state="final">Deschide toate seturile de campuri</target>
+        <target state="final">Deschide toate seturile de câmpuri</target>
         <note>File: controllers/admin/AdminTranslationsController.php [Line: 1590]</note>
       </trans-unit>
       <trans-unit id="6700e23ddf33bd4421249c9ef94d6295" approved="yes">
@@ -419,17 +419,17 @@
       </trans-unit>
       <trans-unit id="dd39e763b87f78cae49e9d09b1e5e9d2" approved="yes">
         <source>Geolocation behavior for other countries</source>
-        <target state="final">Comportament geolocalizare pentru alte tari</target>
+        <target state="final">Comportament geolocalizare pentru alte țări</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Geolocation/GeolocationOptionsType.php [Line: 89]</note>
       </trans-unit>
       <trans-unit id="8beea67a449f1c8e352838c8a1a77111" approved="yes">
         <source>Geolocation behavior for restricted countries</source>
-        <target state="final">Comportament geolocalizare pentru tarile restrictionate</target>
+        <target state="final">Comportament geolocalizare pentru țările restricționate</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Geolocation/GeolocationOptionsType.php [Line: 78]</note>
       </trans-unit>
       <trans-unit id="aa3b1c5568c71eb8b7a22e5f07c70cd4" approved="yes">
         <source>Geolocation by IP address</source>
-        <target state="final">Geolocalizare dupa adresa IP</target>
+        <target state="final">Geolocalizare după adresa IP</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/International/Geolocation/Blocks/geolocation_by_ip_address.html.twig [Line: 32]</note>
       </trans-unit>
       <trans-unit id="67b6092e7137b245b034286819367669" approved="yes">
@@ -479,32 +479,32 @@
       </trans-unit>
       <trans-unit id="31b7dce9ac35e52f1c4719ac210b7419" approved="yes">
         <source>Live exchange rates</source>
-        <target state="final">Cursuri de schimb in timp real</target>
+        <target state="final">Cursuri de schimb în timp real</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/International/Currency/Blocks/exchange_rates.html.twig [Line: 37]</note>
       </trans-unit>
       <trans-unit id="60bc390fb7113b18e8526d72ddee6474" approved="yes">
         <source>Loading currency data</source>
-        <target state="final">Se incarca datele monedei</target>
+        <target state="final">Se încarcă datele monedei</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/International/Currency/Blocks/form.html.twig [Line: 115]</note>
       </trans-unit>
       <trans-unit id="216845c195c351faf05ff91c6411bfea" approved="yes">
         <source>Local units</source>
-        <target state="final">Unitati locale</target>
+        <target state="final">Unități locale</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/International/Localization/Blocks/local_units.html.twig [Line: 32]</note>
       </trans-unit>
       <trans-unit id="75f9936f4fef50cf05561217a24f058c" approved="yes">
         <source>Localization pack you want to import</source>
-        <target state="final">Pachetul de localizare pe care vrei sa il importi</target>
+        <target state="final">Pachetul de localizare pe care vrei să il importi</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Localization/ImportLocalizationPackType.php [Line: 70]</note>
       </trans-unit>
       <trans-unit id="c1aaec25c6e16ac8f28fdc652f1986ec" approved="yes">
         <source>Main Country</source>
-        <target state="final">Principala tara</target>
+        <target state="final">Principală țară</target>
         <note>File: src/Adapter/Kpi/MainCountryKpi.php [Line: 81]</note>
       </trans-unit>
       <trans-unit id="2303c057afcbe798a5d9811d36e88050" approved="yes">
         <source>Modify translations</source>
-        <target state="final">Modifica traducerile</target>
+        <target state="final">Modifică traducerile</target>
         <note>File: admin-dev/themes/default/template/controllers/translations/helpers/view/translation_modules.tpl [Line: 189]</note>
       </trans-unit>
       <trans-unit id="fdfd8f2cb7c034aecf19844d1cf4abd0" approved="yes">
@@ -529,7 +529,7 @@
       </trans-unit>
       <trans-unit id="7f8f392e0c47b730d773b4ddd9448fba" approved="yes">
         <source>One after another</source>
-        <target state="final">Una dupa alta</target>
+        <target state="final">Una după alta</target>
         <note>File: admin-dev/themes/default/template/controllers/tax_rules/helpers/list/list_content.tpl [Line: 95]</note>
       </trans-unit>
       <trans-unit id="6311ae17c1ee52b36e68aaf4ad066387" approved="yes">
@@ -544,12 +544,12 @@
       </trans-unit>
       <trans-unit id="d92acc5a17d29f3f8b7ac58f22fe7df8" approved="yes">
         <source>Please select the language you want to add or update</source>
-        <target state="final">Te rugam selecteaza limba pe care doresti sa o adaugi sau sa o actualizezi</target>
+        <target state="final">Te rugăm selectează limba pe care dorești să o adaugi sau să o actualizezi</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Translations/AddUpdateLanguageType.php [Line: 65]</note>
       </trans-unit>
       <trans-unit id="cec4e83264fad118a0e5464430e4c7da" approved="yes">
         <source>Please wait while currency data is being loaded</source>
-        <target state="final">Te rugam sa astepti incarcarea datelor monedei</target>
+        <target state="final">Te rugăm să astepti încărcarea datelor monedei</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/International/Currency/Blocks/form.html.twig [Line: 118]</note>
       </trans-unit>
       <trans-unit id="36db9438723d1c5a91880d241f107b8d" approved="yes">
@@ -569,22 +569,22 @@
       </trans-unit>
       <trans-unit id="1f8ff57ebb190230dac54ccb4dbe562b" approved="yes">
         <source>Restore default settings</source>
-        <target state="final">Restaureaza setarile implicite</target>
+        <target state="final">Restaurează setările implicite</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/International/Currency/Blocks/form.html.twig [Line: 91]</note>
       </trans-unit>
       <trans-unit id="e7847cbf6dc75fab772f2267690baaef" approved="yes">
         <source>Restoring your currency's default settings will delete all the customizations you made before. Parameters will look just the same as when the currency is freshly imported.</source>
-        <target state="final">Restaurarea setarilor implicite ale monedei va sterge toate modificarile care i s-au adus. Parametrii vor arata la fel ca atunci cand moneda a fost importata initial.</target>
+        <target state="final">Restaurarea setărilor implicite ale monedei va șterge toate modificările care i s-au adus. Parametrii vor arată la fel ca atunci când moneda a fost importată initial.</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/International/Currency/Blocks/form.html.twig [Line: 50]</note>
       </trans-unit>
       <trans-unit id="7087cbed62cddb06bd7506c46269f0b5" approved="yes">
         <source>Search rate</source>
-        <target state="final">Cauta un procentaj</target>
+        <target state="final">Caută un procentaj</target>
         <note>File: src/Core/Grid/Definition/Factory/TaxGridDefinitionFactory.php [Line: 173]</note>
       </trans-unit>
       <trans-unit id="e3ee9f9a340e253eb5196ce7d53ae2d8" approved="yes">
         <source>Search translations</source>
-        <target state="final">Cauta traduceri</target>
+        <target state="final">Caută traduceri</target>
         <note>File: src/PrestaShopBundle/Translation/Api/InternationalApi.php [Line: 58]</note>
       </trans-unit>
       <trans-unit id="7d9ccccf4e5cc7d7949f26f0a2f5f341" approved="yes">
@@ -604,47 +604,47 @@
       </trans-unit>
       <trans-unit id="3d5428a3ea15cf231a5d0651df2452e2" approved="yes">
         <source>Select the countries from which your store is accessible</source>
-        <target state="final">Selecteaza tarile din care se poate accesa magazinul tau</target>
+        <target state="final">Selectează țările din care se poate accesa magazinul tău</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Geolocation/GeolocationOptionsType.php [Line: 101]</note>
       </trans-unit>
       <trans-unit id="4dca8188ef80c1e68c7cfc96fdeb3abe" approved="yes">
         <source>Select the type of email content</source>
-        <target state="final">Selecteaza tipul de continut de e-mail</target>
+        <target state="final">Selectează tipul de conținut de e-mail</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Translations/ModifyTranslationsType.php [Line: 116]</note>
       </trans-unit>
       <trans-unit id="c96f531c0eda2dece593a2f8df3a58a8" approved="yes">
         <source>Select your language</source>
-        <target state="final">Selecteaza limba</target>
+        <target state="final">Selectează limba</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/Design/MailTheme/Blocks/translate_mails_body_form.html.twig [Line: 39]</note>
       </trans-unit>
       <trans-unit id="dd317a8b9f3ecfc5317c2cb586274145" approved="yes">
         <source>Select your module</source>
-        <target state="final">Selecteaza modulul tau</target>
+        <target state="final">Selectează modulul tău</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Translations/ModifyTranslationsType.php [Line: 136]</note>
       </trans-unit>
       <trans-unit id="84a63a234d9b35094275bfb41ad46b47" approved="yes">
         <source>Select your theme</source>
-        <target state="final">Selecteaza tema</target>
+        <target state="final">Selectează tema</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Translations/ModifyTranslationsType.php [Line: 127]</note>
       </trans-unit>
       <trans-unit id="e93c6cb824cab26f82d9b3446dc8e563" approved="yes">
         <source>Set default country from browser language</source>
-        <target state="final">Configureaza tara implicita pe baza limbii din browser</target>
+        <target state="final">Configurează țară implicită pe baza limbii din browser</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Localization/LocalizationConfigurationType.php [Line: 110]</note>
       </trans-unit>
       <trans-unit id="65a9e6dae82101cecd43f16583f8cd37" approved="yes">
         <source>Set language from browser</source>
-        <target state="final">Configureaza limba din browser</target>
+        <target state="final">Configurează limba din browser</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Localization/LocalizationConfigurationType.php [Line: 89]</note>
       </trans-unit>
       <trans-unit id="740b879fdd48f184f798b8018134f630" approved="yes">
         <source>Show messages</source>
-        <target state="final">Arata mesaje</target>
+        <target state="final">Arată mesaje</target>
         <note>File: src/PrestaShopBundle/Twig/TranslationsExtension.php [Line: 368]</note>
       </trans-unit>
       <trans-unit id="1ca15789ea9a5a5e8bddca102f41eea5" approved="yes">
         <source>Some countries require different elements than others. Click on the button below to get the valid default address format for this country.</source>
-        <target state="final">Unele tari necesita alte elemente decat altele. Fa clic pe butonul de mai jos pentru a obtine formatul implicit de adresa valabil pentru aceasta tara.</target>
+        <target state="final">Unele țări necesită alte elemente decât altele. Fa clic pe butonul de mai jos pentru a obține formatul implicit de adresa valabil pentru această țară.</target>
         <note>File: admin-dev/themes/default/template/controllers/countries/helpers/form/form.tpl [Line: 35]</note>
       </trans-unit>
       <trans-unit id="46a2a41cc6e552044816a2d04634545d" approved="yes">
@@ -664,12 +664,12 @@
       </trans-unit>
       <trans-unit id="1c669d037f8bc785f0e1a9aeb7070367" approved="yes">
         <source>Tax options</source>
-        <target state="final">Optiuni TVA</target>
+        <target state="final">Opțiuni TVA</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/International/Tax/Blocks/tax_options.html.twig [Line: 31]</note>
       </trans-unit>
       <trans-unit id="17812004136cffbd9c55b624f8d21557" approved="yes">
         <source>The following features are only available if you enable the Geolocation by IP address feature.</source>
-        <target state="final">Urmatoarele caracteristici sunt disponibile doar daca se activeaza optiunea geolocalizarii dupa adresa IP.</target>
+        <target state="final">Urmatoarele caracteristici sunt disponibile doar dacă se activează opțiunea geolocalizarii după adresa IP.</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/International/Geolocation/Blocks/geolocation_options.html.twig [Line: 40]</note>
       </trans-unit>
       <trans-unit id="c4f7823f0f99c01a80d1313d79ae7b77" approved="yes">
@@ -689,7 +689,7 @@
       </trans-unit>
       <trans-unit id="14e4d5e97b5a2c7780c4f23b7612a67b" approved="yes">
         <source>This tax only</source>
-        <target state="final">Doar aceasta taxa</target>
+        <target state="final">Doar această taxa</target>
         <note>File: admin-dev/themes/default/template/controllers/tax_rules/helpers/list/list_content.tpl [Line: 91]</note>
       </trans-unit>
       <trans-unit id="1c96489b890acf7ccbb4bd0dc306870b" approved="yes">
@@ -714,7 +714,7 @@
       </trans-unit>
       <trans-unit id="892a326e935b414a79a1eb938afd6ba5" approved="yes">
         <source>Units (e.g. weight, volume, distance)</source>
-        <target state="final">Unitati (de ex. greutate, volum, distanta)</target>
+        <target state="final">Unități (de ex. greutate, volum, distanta)</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Localization/ImportLocalizationPackType.php [Line: 119]</note>
       </trans-unit>
       <trans-unit id="258f49887ef8d14ac268c92b02503aaa" approved="yes">
@@ -724,47 +724,47 @@
       </trans-unit>
       <trans-unit id="57fa5be19cbdbe09aa4f555b2ee710b3" approved="yes">
         <source>Update a language</source>
-        <target state="final">Actualizeaza o limba</target>
+        <target state="final">Actualizează o limba</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Translations/AddUpdateLanguageType.php [Line: 68]</note>
       </trans-unit>
       <trans-unit id="8f76a793218248d062ced130c0ffd968" approved="yes">
         <source>Update exchange rates</source>
-        <target state="final">Actualizeaza cursul de schimb</target>
+        <target state="final">Actualizează cursul de schimb</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/International/Currency/Blocks/exchange_rates.html.twig [Line: 47]</note>
       </trans-unit>
       <trans-unit id="3b54d45d2c221c50e916f3be1fc12f2a" approved="yes">
         <source>Update translations</source>
-        <target state="final">Actualizeaza traducerile</target>
+        <target state="final">Actualizează traducerile</target>
         <note>File: controllers/admin/AdminTranslationsController.php [Line: 180]</note>
       </trans-unit>
       <trans-unit id="8e4157c726a8c5cf64361e2d751bc945" approved="yes">
         <source>Use ecotax</source>
-        <target state="final">Foloseste taxa eco</target>
+        <target state="final">Folosește taxa eco</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Improve/International/Tax/TaxOptionsType.php [Line: 132]</note>
       </trans-unit>
       <trans-unit id="a4a61fd17fd3f75cdddb53a1404d2ba4" approved="yes">
         <source>Use my current modified format</source>
-        <target state="final">Foloseste formatul curent</target>
+        <target state="final">Folosește formatul curent</target>
         <note>File: admin-dev/themes/default/template/controllers/countries/helpers/form/form.tpl [Line: 46]</note>
       </trans-unit>
       <trans-unit id="a19ef0b0d61c6410b0c930f7164d5870" approved="yes">
         <source>Use the default format</source>
-        <target state="final">Foloseste formatul implicit</target>
+        <target state="final">Folosește formatul implicit</target>
         <note>File: admin-dev/themes/default/template/controllers/countries/helpers/form/form.tpl [Line: 44]</note>
       </trans-unit>
       <trans-unit id="5dfe48d86e43b22b76d36dcaadd5caf9" approved="yes">
         <source>Use the last registered format</source>
-        <target state="final">Foloseste ultimul format inregistrat</target>
+        <target state="final">Folosește ultimul format înregistrat</target>
         <note>File: admin-dev/themes/default/template/controllers/countries/helpers/form/form.tpl [Line: 42]</note>
       </trans-unit>
       <trans-unit id="673a349a39148b988e9aabf651d31a96" approved="yes">
         <source>View HTML version</source>
-        <target state="final">Vizualizeaza versiunea HTML</target>
+        <target state="final">Vizualizează versiunea HTML</target>
         <note>File: controllers/admin/AdminTranslationsController.php [Line: 2283]</note>
       </trans-unit>
       <trans-unit id="5f986174fa9cf6c0ddd927e11b68254a" approved="yes">
         <source>View/Edit TXT version</source>
-        <target state="final">Vzualizati/Editeaza versiunea TXT</target>
+        <target state="final">Vzualizati/Editează versiunea TXT</target>
         <note>File: controllers/admin/AdminTranslationsController.php [Line: 2285]</note>
       </trans-unit>
       <trans-unit id="3850c8049741085bef77450dc5f0dc9a" approved="yes">

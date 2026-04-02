@@ -24,7 +24,7 @@
       </trans-unit>
       <trans-unit id="dd7bf230fde8d4836917806aff6a6b27" approved="yes">
         <source>Address</source>
-        <target state="final">Adresa ( str. si nr.)</target>
+        <target state="final">Adresa ( str. și nr.)</target>
         <note>File: classes/form/CustomerAddressFormatter.php [Line: 216]</note>
       </trans-unit>
       <trans-unit id="86376e3b5c80d090dbc625b4d241431b" approved="yes">
@@ -39,12 +39,12 @@
       </trans-unit>
       <trans-unit id="e9cb217697088a98b1937d111d936281" approved="yes">
         <source>Attachment</source>
-        <target state="final">Atasament</target>
+        <target state="final">Atașament</target>
         <note>File: themes/hummingbird/modules/contactform/views/templates/widget/contactform.tpl [Line: 67]</note>
       </trans-unit>
       <trans-unit id="ccd41dac2cc2284362975a05bd9ce363" approved="yes">
         <source>Birthdate</source>
-        <target state="final">Data nasterii</target>
+        <target state="final">Data nașterii</target>
         <note>File: classes/form/CustomerFormatter.php [Line: 209]</note>
       </trans-unit>
       <trans-unit id="57d056ed0984166336b7879c2af3657f" approved="yes">
@@ -64,7 +64,7 @@
       </trans-unit>
       <trans-unit id="59716c97497eb9694541f7c3d37b1a4d" approved="yes">
         <source>Country</source>
-        <target state="final">Tara</target>
+        <target state="final">Țară</target>
         <note>File: classes/form/CustomerAddressFormatter.php [Line: 224]</note>
       </trans-unit>
       <trans-unit id="ce8ae9da5b7cd6c3df2929543a9af92d" approved="yes">
@@ -89,7 +89,7 @@
       </trans-unit>
       <trans-unit id="b60bb13a87fe3ae5463aeb0980a5a8a1" approved="yes">
         <source>Identification number</source>
-        <target state="final">Numar de identificare/inregistrare</target>
+        <target state="final">Număr de identificare/înregistrare</target>
         <note>File: classes/form/CustomerFormatter.php [Line: 156]</note>
       </trans-unit>
       <trans-unit id="8d3f5eff9c40ee315d452392bed5309b" approved="yes">
@@ -114,7 +114,7 @@
       </trans-unit>
       <trans-unit id="ebb061953c0454b2c8ee7b0ac615ebcd" approved="yes">
         <source>Optional</source>
-        <target state="final">Optional</target>
+        <target state="final">Opțional</target>
         <note>File: themes/hummingbird/templates/_partials/form-fields.tpl [Line: 215]</note>
       </trans-unit>
       <trans-unit id="1e860e56970a81a1ba3e1fcb7fccc846" approved="yes">
@@ -149,7 +149,7 @@
       </trans-unit>
       <trans-unit id="4293bbcd95a38b4da545b4a245610dbb" approved="yes">
         <source>Please choose</source>
-        <target state="final">Te rugam sa alegi</target>
+        <target state="final">Te rugăm să alegi</target>
         <note>File: themes/classic/templates/_partials/form-fields.tpl [Line: 61]</note>
       </trans-unit>
       <trans-unit id="deb10517653c255364175796ace3553f" approved="yes">

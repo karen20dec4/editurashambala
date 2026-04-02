@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="37398dbb8ad78a10d010a81bd15c73d8" approved="yes">
         <source>Enable the NVD3 charting code for your own uses, providing you with ever so useful graphs.</source>
-        <target state="final">Activeaza codul NVD3 pentru grafice conform nevoilor tale si iti va furniza grafice foarte folositoare.</target>
+        <target state="final">Activează codul NVD3 pentru grafice conform nevoilor tale și îți va furniza grafice foarte folositoare.</target>
         <note>File: modules/graphnvd3/graphnvd3.php [Line: 55]</note>
       </trans-unit>
       <trans-unit id="a9f70dff230e6fc8e878043486e6cddf" approved="yes">
