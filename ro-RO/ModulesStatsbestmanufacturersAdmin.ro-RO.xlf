@@ -9,12 +9,12 @@
       </trans-unit>
       <trans-unit id="4209302f83157a9a457c510becbe84a1" approved="yes">
         <source>Enrich your stats: add a list of the best-selling brands to your dashboard.</source>
-        <target state="final">Imbogateste-ti statisticile: adauga la tabloul de bord o lista cu cele mai bine vandute marci.</target>
+        <target state="final">Îmbogățește-ti statisticile: adaugă la tabloul de bord o lista cu cele mai bine vândute marci.</target>
         <note>File: modules/statsbestmanufacturers/statsbestmanufacturers.php [Line: 80]</note>
       </trans-unit>
       <trans-unit id="ea067eb37801c5aab1a1c685eb97d601" approved="yes">
         <source>Total paid</source>
-        <target state="final">Total platit</target>
+        <target state="final">Total plătit</target>
         <note>File: modules/statsbestmanufacturers/statsbestmanufacturers.php [Line: 72]</note>
       </trans-unit>
     </body>

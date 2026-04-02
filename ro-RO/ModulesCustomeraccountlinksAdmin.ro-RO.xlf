@@ -19,12 +19,12 @@
       </trans-unit>
       <trans-unit id="0fd8dc8abb2404ad11af4182f10643c1" approved="yes">
         <source>Personal info</source>
-        <target state="final">Informatii personale</target>
+        <target state="final">Informații personale</target>
         <note>File: modules/ps_customeraccountlinks/ps_customeraccountlinks.php [Line: 118]</note>
       </trans-unit>
       <trans-unit id="d03c37dd831b71ea0325997c25f89bc1" approved="yes">
         <source>Welcome your customers with their personal information displayed right on your footer.</source>
-        <target state="final">Afiseaza, pentru clientii autentificati, linkuri catre contul de client si alte informatii in subsolul paginilor.</target>
+        <target state="final">Afișează, pentru clienții autentificati, linkuri către contul de client și alte informații în subsolul paginilor.</target>
         <note>File: modules/ps_customeraccountlinks/ps_customeraccountlinks.php [Line: 47]</note>
       </trans-unit>
     </body>

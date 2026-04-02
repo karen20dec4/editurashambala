@@ -14,17 +14,17 @@
       </trans-unit>
       <trans-unit id="61a898af87607e3f4d41c3613d8761c7" approved="yes">
         <source>Customer registrations:</source>
-        <target state="final">Abonarile clientilor:</target>
+        <target state="final">Abonarile clienților:</target>
         <note>File: modules/statsnewsletter/statsnewsletter.php [Line: 83]</note>
       </trans-unit>
       <trans-unit id="e4a878baf1fa9c172209ad7face7b695" approved="yes">
         <source>Enrich your stats, display a graph showing newsletter registrations.</source>
-        <target state="final">Imbogateste statisticile adaugand un grafic reprezentand evolutia abonarilor la buletinul informativ.</target>
+        <target state="final">Îmbogățește statisticile adăugând un grafic reprezentând evoluția abonarilor la buletinul informativ.</target>
         <note>File: modules/statsnewsletter/statsnewsletter.php [Line: 56]</note>
       </trans-unit>
       <trans-unit id="cf74c2815ab62be1efa55a4a5d3f46a4" approved="yes">
         <source>Newsletter statistics</source>
-        <target state="final">Statistici despre stiri</target>
+        <target state="final">Statistici despre știri</target>
         <note>File: modules/statsnewsletter/statsnewsletter.php [Line: 122]</note>
       </trans-unit>
       <trans-unit id="b1e8ef173f53bc64af2600fdb6247ffd" approved="yes">

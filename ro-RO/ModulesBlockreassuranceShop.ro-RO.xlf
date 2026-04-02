@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="6a91548cc5152c4e715d0ad0dac8f86a" approved="yes">
         <source>(edit with the Customer Reassurance module)</source>
-        <target state="final">(editeaza cu modulul Reconfortarea clientilor)</target>
+        <target state="final">(editează cu modulul Reconfortarea clienților)</target>
         <note>File: modules/blockreassurance/blockreassurance.php [Line: 171]</note>
       </trans-unit>
       <trans-unit id="e80df274da3233f266b147540dd66fab" approved="yes">

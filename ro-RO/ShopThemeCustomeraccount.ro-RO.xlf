@@ -14,12 +14,12 @@
       </trans-unit>
       <trans-unit id="58b3d8603dffe8484e90c0ca371921ac" approved="yes">
         <source>Add a message</source>
-        <target state="final">Adauga un mesaj:</target>
+        <target state="final">Adaugă un mesaj:</target>
         <note>File: themes/hummingbird/templates/customer/_partials/order-messages.tpl [Line: 32]</note>
       </trans-unit>
       <trans-unit id="da4791bc9700aca963b560fcb7db0605" approved="yes">
         <source>Add first address</source>
-        <target state="final">Adauga prima adresa</target>
+        <target state="final">Adaugă prima adresa</target>
         <note>File: themes/hummingbird/templates/customer/my-account.tpl [Line: 32]</note>
       </trans-unit>
       <trans-unit id="284b47b0bb63ae2df3b29f0e691d6fcf" approved="yes">
@@ -29,7 +29,7 @@
       </trans-unit>
       <trans-unit id="2b79d007c64009edf92d06f7cb280b25" approved="yes">
         <source>All merchandise must be returned in its original packaging and in its original state.</source>
-        <target state="final">Toate produsele trebuie returnate in ambalajul original fara daune sau urme de uzura.</target>
+        <target state="final">Toate produsele trebuie returnate în ambalajul original fără daune sau urme de uzura.</target>
         <note>File: themes/hummingbird/templates/customer/order-return.tpl [Line: 109]</note>
       </trans-unit>
       <trans-unit id="21bdc5689c12595ae14298354d5550d5" approved="yes">
@@ -39,12 +39,12 @@
       </trans-unit>
       <trans-unit id="a958dbb46713e59856c35f89e5092a5e" approved="yes">
         <source>Back to your account</source>
-        <target state="final">Inapoi la contul tau</target>
+        <target state="final">Înapoi la contul tău</target>
         <note>File: themes/hummingbird/templates/customer/page.tpl [Line: 30]</note>
       </trans-unit>
       <trans-unit id="ced55d097872ab13bf177e8d31db396f" approved="yes">
         <source>Click the following link to track the delivery of your order</source>
-        <target state="final">Clicaie pe acest link pentru a urmari livrarea comenzii tale</target>
+        <target state="final">Clică-ie pe acest link pentru a urmari livrarea comenzii tale</target>
         <note>File: themes/classic/templates/customer/order-detail.tpl [Line: 126]</note>
       </trans-unit>
       <trans-unit id="6280ed214163d6e214763ff970910cdc" approved="yes">
@@ -54,12 +54,12 @@
       </trans-unit>
       <trans-unit id="42369faa6a6b243aac58683f3874bf99" approved="yes">
         <source>Create account</source>
-        <target state="final">Creeaza contul</target>
+        <target state="final">Creează contul</target>
         <note>File: themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl [Line: 66]</note>
       </trans-unit>
       <trans-unit id="2fdfd506efea08144c0794c32ca8250a" approved="yes">
         <source>Create an account</source>
-        <target state="final">Creeaza un cont</target>
+        <target state="final">Creează un cont</target>
         <note>File: themes/hummingbird/templates/customer/registration.tpl [Line: 10]</note>
       </trans-unit>
       <trans-unit id="cf3bae95c5f6023d5a10fe415b205a45" approved="yes">
@@ -89,12 +89,12 @@
       </trans-unit>
       <trans-unit id="e682495785e844d491378817aa34aa3f" approved="yes">
         <source>Download your invoice as a PDF file.</source>
-        <target state="final">Descarca factura pro forma in format PDF.</target>
+        <target state="final">Descarcă factura pro forma în format PDF.</target>
         <note>File: themes/hummingbird/templates/customer/order-detail.tpl [Line: 51]</note>
       </trans-unit>
       <trans-unit id="1f1015bbef5f42d858e8486397ad8f3e" approved="yes">
         <source>Easier merchandise return</source>
-        <target state="final">Returnari usor de efectuat</target>
+        <target state="final">Returnări ușor de efectuat</target>
         <note>File: themes/hummingbird/templates/customer/_partials/account-transformation-form.tpl [Line: 12]</note>
       </trans-unit>
       <trans-unit id="24e372d72a306d924e8f1e53900dd7b6" approved="yes">
@@ -104,12 +104,12 @@
       </trans-unit>
       <trans-unit id="c69e7f4e04439e0f04383334801c3790" approved="yes">
         <source>Enter a password between %s and %s characters</source>
-        <target state="final">Introdu o parola ce contine intre %s si %s caractere</target>
+        <target state="final">Introdu o parola ce conține între %s și %s caractere</target>
         <note>File: themes/hummingbird/templates/components/password-policy-template.tpl [Line: 67]</note>
       </trans-unit>
       <trans-unit id="93aef17b1541efc1c3f8bd6679972096" approved="yes">
         <source>Fast and easy checkout</source>
-        <target state="final">Plasare de comenzi mai rapida si mai usoara</target>
+        <target state="final">Plasare de comenzi mai rapidă și mai ușoară</target>
         <note>File: themes/hummingbird/templates/customer/_partials/account-transformation-form.tpl [Line: 11]</note>
       </trans-unit>
       <trans-unit id="46774573a61204e0aac6c4ab10247d3e" approved="yes">
@@ -134,37 +134,37 @@
       </trans-unit>
       <trans-unit id="3aedb5d3a3e36f7bb6baf1fbb9497894" approved="yes">
         <source>Guest Tracking</source>
-        <target state="final">Urmarirea comenzii fara cont</target>
+        <target state="final">Urmarirea comenzii fără cont</target>
         <note>File: themes/hummingbird/templates/customer/guest-tracking.tpl [Line: 8]</note>
       </trans-unit>
       <trans-unit id="28d5817f910ec3a8856126f5860fa490" approved="yes">
         <source>Here are the orders you've placed since your account was created.</source>
-        <target state="final">Aici vezi comenzile facute de tine de la crearea contului.</target>
+        <target state="final">Aici vezi comenzile făcute de tine de la crearea contului.</target>
         <note>File: themes/hummingbird/templates/customer/history.tpl [Line: 12]</note>
       </trans-unit>
       <trans-unit id="9cf9ab35a1b24314913bb739d25a0b36" approved="yes">
         <source>Here is a list of pending merchandise returns</source>
-        <target state="final">Aici ai o lista cu returnarile aflate in lucru</target>
+        <target state="final">Aici ai o lista cu returnările aflate în lucru</target>
         <note>File: themes/classic/templates/customer/order-follow.tpl [Line: 32]</note>
       </trans-unit>
       <trans-unit id="f637120d9f24c366b382ede6c21cddf0" approved="yes">
         <source>If the conditions of return listed above are not respected, we reserve the right to refuse your package and/or reimbursement.</source>
-        <target state="final">Daca nu sunt respectate conditiile de returnare prezentate mai sus, ne rezervam dreptul de a refuza pachetul si/sau rambursarea.</target>
+        <target state="final">Dacă nu sunt respectate condițiile de returnare prezentate mai sus, ne rezervam dreptul de a refuza pachetul și/sau rambursarea.</target>
         <note>File: themes/hummingbird/templates/customer/order-return.tpl [Line: 148]</note>
       </trans-unit>
       <trans-unit id="bef8403608dc4cb3ade799f63dd4bf59" approved="yes">
         <source>If you wish to return one or more products, please mark the corresponding boxes and provide an explanation for the return. When complete, click the button below.</source>
-        <target state="final">Daca doresti sa inapoiezi unul sau mai multe produse, bifeaza casutele corespunzatoare si furnizeaza explicatii pentru returnare. Dupa completare, clicaie pe butonul de mai jos.</target>
+        <target state="final">Dacă dorești să înapoiezi unul sau mai multe produse, bifează căsuțele corespunzătoare și furnizează explicații pentru returnare. După completare, clică-ie pe butonul de mai jos.</target>
         <note>File: themes/hummingbird/templates/customer/_partials/order-detail-return.tpl [Line: 202]</note>
       </trans-unit>
       <trans-unit id="d93651d012e77dac5581b08db33195b2" approved="yes">
         <source>If you would like to add a comment about your order, please write it in the field below.</source>
-        <target state="final">Daca doresti sa adaugi si alte informatii referitoare la comanda, te rugam sa le scrii mai jos.</target>
+        <target state="final">Dacă dorești să adaugi și alte informații referitoare la comanda, te rugăm să le scrii mai jos.</target>
         <note>File: themes/hummingbird/templates/customer/_partials/order-messages.tpl [Line: 35]</note>
       </trans-unit>
       <trans-unit id="a82be0f551b8708bc08eb33cd9ded0cf" approved="yes">
         <source>Information</source>
-        <target state="final">Informatii</target>
+        <target state="final">Informații</target>
         <note>File: themes/hummingbird/templates/customer/my-account.tpl [Line: 21]</note>
       </trans-unit>
       <trans-unit id="b24be74c768f02b296d4e8f41be486fb" approved="yes">
@@ -179,7 +179,7 @@
       </trans-unit>
       <trans-unit id="11f4b4ba23dc72ee5e86ff5a90bdde60" approved="yes">
         <source>Log in to your account</source>
-        <target state="final">Conecteaza-te la contul tau</target>
+        <target state="final">Conecteaza-te la contul tău</target>
         <note>File: themes/classic/templates/customer/authentication.tpl [Line: 28]</note>
       </trans-unit>
       <trans-unit id="d4151a9a3959bdd43690735737034f27" approved="yes">
@@ -229,12 +229,12 @@
       </trans-unit>
       <trans-unit id="952998528c20798fbd22b49d505a29d5" approved="yes">
         <source>No account? Create one here</source>
-        <target state="final">Nu ai cont? Creeaza unul aici</target>
+        <target state="final">Nu ai cont? Creează unul aici</target>
         <note>File: themes/classic/templates/customer/authentication.tpl [Line: 42]</note>
       </trans-unit>
       <trans-unit id="8e3ecabff428ab5465ab8feb928436e0" approved="yes">
         <source>Not you? [1]Log out[/1]</source>
-        <target state="final">Nu esti tu? [1]Iesi[/1]</target>
+        <target state="final">Nu ești tu? [1]Ieși[/1]</target>
         <note>File: themes/classic/templates/checkout/_partials/steps/personal-information.tpl [Line: 26]</note>
       </trans-unit>
       <trans-unit id="a240fa27925a635b08dc28c9e4f9216d" approved="yes">
@@ -244,7 +244,7 @@
       </trans-unit>
       <trans-unit id="674592d247a228106f4f0d9f81c0d92c" approved="yes">
         <source>Order Reference %reference% - placed on %date%</source>
-        <target state="final">Comanda cu referinta %reference% - plasata pe %date%</target>
+        <target state="final">Comanda cu referință %reference% - plasata pe %date%</target>
         <note>File: themes/classic/templates/customer/order-detail.tpl [Line: 38]</note>
       </trans-unit>
       <trans-unit id="f5d74ea75357b5e139854c14f8e24fe3" approved="yes">
@@ -259,7 +259,7 @@
       </trans-unit>
       <trans-unit id="cea4dedd9147586b361b90e900944690" approved="yes">
         <source>Order history and details</source>
-        <target state="final">Istoric si detalii ale comenzilor</target>
+        <target state="final">Istoric și detalii ale comenzilor</target>
         <note>File: themes/hummingbird/templates/customer/my-account.tpl [Line: 39]</note>
       </trans-unit>
       <trans-unit id="57297718fdb439175177cf6b196172d1" approved="yes">
@@ -284,27 +284,27 @@
       </trans-unit>
       <trans-unit id="7a8fe8aaa64e691d82f429d39e0df3a5" approved="yes">
         <source>Personalized and secure access</source>
-        <target state="final">Acces sigur si personalizat</target>
+        <target state="final">Acces sigur și personalizat</target>
         <note>File: themes/hummingbird/templates/customer/_partials/account-transformation-form.tpl [Line: 10]</note>
       </trans-unit>
       <trans-unit id="2e2d29136e330ac7ba96f9004901be3a" approved="yes">
         <source>Please check the [1]returns form[/1] for the correct address.</source>
-        <target state="final">Te rugam sa verifici formularul de [1]returnare[/1] pentru adresa corecta.</target>
+        <target state="final">Te rugăm să verifici formularul de [1]returnare[/1] pentru adresa corectă.</target>
         <note>File: themes/hummingbird/templates/customer/order-return.tpl [Line: 127]</note>
       </trans-unit>
       <trans-unit id="f28d8a87d03470521d5a992312bfaed8" approved="yes">
         <source>Please enter the email address you used to register. You will receive a temporary link to reset your password.</source>
-        <target state="final">Te rugam sa introduci adresa de e-mail utilizata la inregistrare. Vei primi un link temporar pentru a reseta parola.</target>
+        <target state="final">Te rugăm să introduci adresa de e-mail utilizată la înregistrare. Vei primi un link temporar pentru a reseta parola.</target>
         <note>File: themes/hummingbird/templates/customer/password-email.tpl [Line: 26]</note>
       </trans-unit>
       <trans-unit id="f393a2fe17dc0cacff53a136479b845d" approved="yes">
         <source>Please let us know if you have any questions.</source>
-        <target state="final">Te rugam sa ne contactezi pentru orice intrebari.</target>
+        <target state="final">Te rugăm să ne contactezi pentru orice întrebări.</target>
         <note>File: themes/hummingbird/templates/customer/order-return.tpl [Line: 143]</note>
       </trans-unit>
       <trans-unit id="3407538083069a115822986f5b34b21f" approved="yes">
         <source>Please print out the [1]returns form[/1] and include it with your package.</source>
-        <target state="final">Te rugam sa tiparesti formularul de [1]returnare[/1] si sa il incluzi in pachet.</target>
+        <target state="final">Te rugăm să tipărești formularul de [1]returnare[/1] și să il incluzi în pachet.</target>
         <note>File: themes/hummingbird/templates/customer/order-return.tpl [Line: 117]</note>
       </trans-unit>
       <trans-unit id="068f80c7519d0528fb08e82137a72131" approved="yes">
@@ -323,12 +323,12 @@
       </trans-unit>
       <trans-unit id="1af342a10e8238b722ba844facf5768b" approved="yes">
         <source>Request a return</source>
-        <target state="final">Solicita o returnare</target>
+        <target state="final">Solicită o returnare</target>
         <note>File: themes/hummingbird/templates/customer/_partials/order-detail-return.tpl [Line: 208]</note>
       </trans-unit>
       <trans-unit id="32fe59513f5bbdd353b4527cc6af55ce" approved="yes">
         <source>Reset your password</source>
-        <target state="final">Reseteaza parola</target>
+        <target state="final">Resetează parola</target>
         <note>File: themes/hummingbird/templates/customer/password-new.tpl [Line: 10]</note>
       </trans-unit>
       <trans-unit id="988fd738de9c6d177440c5dcf69e73ce" approved="yes">
@@ -358,27 +358,27 @@
       </trans-unit>
       <trans-unit id="77264630b0f035a114135e26f0e56a5c" approved="yes">
         <source>The current status of your merchandise return is: [1] %status% [/1]</source>
-        <target state="final">Starea curenta a returnarii este: [1] %stadiu% [/1]</target>
+        <target state="final">Starea curentă a returnării este: [1] %stadiu% [/1]</target>
         <note>File: themes/hummingbird/templates/customer/order-return.tpl [Line: 88]</note>
       </trans-unit>
       <trans-unit id="f43333ea2272fed37fc121a2e09755c3" approved="yes">
         <source>The minimum score must be: %s</source>
-        <target state="final">Evaluarea trebuie sa fie cel putin: %s</target>
+        <target state="final">Evaluarea trebuie să fie cel puțin: %s</target>
         <note>File: themes/hummingbird/templates/components/password-policy-template.tpl [Line: 72]</note>
       </trans-unit>
       <trans-unit id="d2948a89e47a4ad7eb8412c1c260ea88" approved="yes">
         <source>To track your order, please enter the following information:</source>
-        <target state="final">Pentru a urmari comanda, introduci urmatoarele informatii:</target>
+        <target state="final">Pentru a urmari comanda, introduci urmatoarele informații:</target>
         <note>File: themes/hummingbird/templates/customer/guest-login.tpl [Line: 17]</note>
       </trans-unit>
       <trans-unit id="f469203cd9de85e9583bae25f1cb0557" approved="yes">
         <source>Update your address</source>
-        <target state="final">Actualizeaza-ti adresa</target>
+        <target state="final">Actualizează-ti adresa</target>
         <note>File: themes/hummingbird/templates/customer/address.tpl [Line: 9]</note>
       </trans-unit>
       <trans-unit id="3cb6ea48a427bf3a1687302e3b764c27" approved="yes">
         <source>View credit slip</source>
-        <target state="final">Vizualizeaza nota de credit</target>
+        <target state="final">Vizualizează nota de credit</target>
         <note>File: themes/hummingbird/templates/customer/order-slip.tpl [Line: 39]</note>
       </trans-unit>
       <trans-unit id="2cbfb6731610056e1d0aaacde07096c1" approved="yes">
@@ -398,7 +398,7 @@
       </trans-unit>
       <trans-unit id="88be9ea838e21273267409d76af3b284" approved="yes">
         <source>We have logged your return request.</source>
-        <target state="final">Am retinut cererea ta de returnare</target>
+        <target state="final">Am reținut cererea ta de returnare</target>
         <note>File: themes/hummingbird/templates/customer/order-return.tpl [Line: 23]</note>
       </trans-unit>
       <trans-unit id="83218ac34c1834c26781fe4bde918ee4" approved="yes">
@@ -408,12 +408,12 @@
       </trans-unit>
       <trans-unit id="16dafae9102750489087d1d087b72aba" approved="yes">
         <source>When we receive your package, we will notify you by email. We will then begin processing order reimbursement.</source>
-        <target state="final">La primirea pachetului tau, va vom anunta prin e-mail si vom demara procedura de retur.</target>
+        <target state="final">La primirea pachetului tău, va vom anunta prin e-mail și vom demara procedura de retur.</target>
         <note>File: themes/hummingbird/templates/customer/order-return.tpl [Line: 138]</note>
       </trans-unit>
       <trans-unit id="755bb0834a77079fd1330b555b69e6bf" approved="yes">
         <source>You have given permission to receive your order in recycled packaging.</source>
-        <target state="final">Ai fost de acord sa va primiti comanda in ambalaj reciclat.</target>
+        <target state="final">Ai fost de acord să va primiți comanda în ambalaj reciclat.</target>
         <note>File: themes/hummingbird/templates/customer/order-detail.tpl [Line: 35]</note>
       </trans-unit>
       <trans-unit id="e14bc5cef02df7369b604ea3885adb96" approved="yes">
@@ -423,7 +423,7 @@
       </trans-unit>
       <trans-unit id="f2fc7490cbdb0db5cd6f1a4e7edb0da1" approved="yes">
         <source>Your account</source>
-        <target state="final">Contul tau</target>
+        <target state="final">Contul tău</target>
         <note>File: themes/hummingbird/modules/ps_customersignin/ps_customersignin.tpl [Line: 35]</note>
       </trans-unit>
       <trans-unit id="3908e1afa0ff22fbf112aff3c5ba55c1" approved="yes">
@@ -433,12 +433,12 @@
       </trans-unit>
       <trans-unit id="d45c14e2fb387664ad2a66a2b8f7c0a4" approved="yes">
         <source>Your package must be returned to us within %number% days of receiving your order.</source>
-        <target state="final">Pachetul tau trebuie sa fie returnat in termen de %number% de zile de la primirea comenzii.</target>
+        <target state="final">Pachetul tău trebuie să fie returnat în termen de %number% de zile de la primirea comenzii.</target>
         <note>File: themes/hummingbird/templates/customer/order-return.tpl [Line: 77]</note>
       </trans-unit>
       <trans-unit id="6335a00a08fde0fbb8f6d6630cdadd92" approved="yes">
         <source>Your personal information</source>
-        <target state="final">Informatiile tale personale</target>
+        <target state="final">Informațiile tale personale</target>
         <note>File: themes/hummingbird/templates/customer/identity.tpl [Line: 8]</note>
       </trans-unit>
       <trans-unit id="70b77fea994d1bda0a46cb5f9c9275f3" approved="yes">

@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="7601c8e861088bd27255e18afaefab6b" approved="yes">
         <source>%copyright% %year% - Ecommerce software by %prestashop%</source>
-        <target state="final">%copyright% %year% - Software pentru comert electronic de %prestashop%</target>
+        <target state="final">%copyright% %year% - Software pentru comerț electronic de %prestashop%</target>
         <note>File: themes/hummingbird/templates/_partials/copyright.tpl [Line: 5]</note>
       </trans-unit>
       <trans-unit id="d0f369aab921195580d8319855bbb69f" approved="yes">
@@ -19,12 +19,12 @@
       </trans-unit>
       <trans-unit id="21034ae6d01a83e702839a72ba8a77b0" approved="yes">
         <source>(tax excl.)</source>
-        <target state="final">(fara TVA)</target>
+        <target state="final">(fără TVA)</target>
         <note>File: src/Adapter/Presenter/Product/ProductLazyArray.php [Line: 537]</note>
       </trans-unit>
       <trans-unit id="e9e7ca277da652bde67ef5faafb755dc" approved="yes">
         <source>(tax excluded)</source>
-        <target state="final">(fara TVA)</target>
+        <target state="final">(fără TVA)</target>
         <note>File: src/Adapter/Presenter/Order/OrderLazyArray.php [Line: 506]</note>
       </trans-unit>
       <trans-unit id="1f87346a16cf80c372065de3c54c86d9" approved="yes">
@@ -44,12 +44,12 @@
       </trans-unit>
       <trans-unit id="9769bc6be635c708fee72d29f5a08f30" approved="yes">
         <source>A word by itself is easy to guess</source>
-        <target state="final">Un cuvant izolat este usor de ghicit</target>
+        <target state="final">Un cuvânt izolat este ușor de ghicit</target>
         <note>File: classes/controller/FrontController.php [Line: 1796]</note>
       </trans-unit>
       <trans-unit id="adc4f9f9cccaa450c10977d50da58d8d" approved="yes">
         <source>About and Contact</source>
-        <target state="final">Despre noi si Contact</target>
+        <target state="final">Despre noi și Contact</target>
         <note>File: themes/hummingbird/templates/cms/stores.tpl [Line: 62]</note>
       </trans-unit>
       <trans-unit id="2143f8cb66482342b35208bdc3fd949c" approved="yes">
@@ -59,7 +59,7 @@
       </trans-unit>
       <trans-unit id="a2bfda43aef35df5f7edb8f8de1f5f30" approved="yes">
         <source>Add another word or two. Uncommon words are better.</source>
-        <target state="final">Adauga inca un cuvant sau doua. Cuvintele neobișnuite sunt mai bune.</target>
+        <target state="final">Adaugă încă un cuvânt sau doua. Cuvintele neobișnuite sunt mai bune.</target>
         <note>File: classes/controller/FrontController.php [Line: 1810]</note>
       </trans-unit>
       <trans-unit id="284b47b0bb63ae2df3b29f0e691d6fcf" approved="yes">
@@ -74,7 +74,7 @@
       </trans-unit>
       <trans-unit id="82958461f3498cc00c0e95ffc05c482d" approved="yes">
         <source>All-uppercase is almost as easy to guess as all-lowercase</source>
-        <target state="final">Parolele compuse numai din majuscule sunt aproape la fel de usor de ghicit ca cele compuse numai din minuscule</target>
+        <target state="final">Parolele compuse numai din majuscule sunt aproape la fel de ușor de ghicit ca cele compuse numai din minuscule</target>
         <note>File: classes/controller/FrontController.php [Line: 1807]</note>
       </trans-unit>
       <trans-unit id="b1897515d548a960afe49ecf66a29021" approved="yes">
@@ -84,7 +84,7 @@
       </trans-unit>
       <trans-unit id="54e26a80f66b734f94bc2bd91f3a39ca" approved="yes">
         <source>Avoid dates and years that are associated with you</source>
-        <target state="final">Evita anii si datele care pot fi asociate cu tine</target>
+        <target state="final">Evita anii și datele care pot fi asociate cu tine</target>
         <note>File: classes/controller/FrontController.php [Line: 1805]</note>
       </trans-unit>
       <trans-unit id="b4535b0e01e0d48c4e38758a933870ad" approved="yes">
@@ -109,12 +109,12 @@
       </trans-unit>
       <trans-unit id="0557fa923dcee4d0f86b1409f5c2167f" approved="yes">
         <source>Back</source>
-        <target state="final">Inapoi</target>
+        <target state="final">Înapoi</target>
         <note>File: themes/hummingbird/templates/catalog/_partials/product-customization-modal.tpl [Line: 80]</note>
       </trans-unit>
       <trans-unit id="7c491b68fcdc8169f7aadfffbafaf47d" approved="yes">
         <source>Back to top</source>
-        <target state="final">Inapoi la inceput</target>
+        <target state="final">Înapoi la început</target>
         <note>File: themes/hummingbird/templates/layouts/layout-both-columns.tpl [Line: 123]</note>
       </trans-unit>
       <trans-unit id="84be54bb4bd1b755a27d86388700d097" approved="yes">
@@ -134,7 +134,7 @@
       </trans-unit>
       <trans-unit id="ea4788705e6873b424c65e91c2846b19" approved="yes">
         <source>Cancel</source>
-        <target state="final">Anuleaza</target>
+        <target state="final">Anulează</target>
         <note>File: themes/hummingbird/modules/ps_searchbar/ps_searchbar.tpl [Line: 79]</note>
       </trans-unit>
       <trans-unit id="fb6fb2ced4938c895874cd10f135a624" approved="yes">
@@ -159,17 +159,17 @@
       </trans-unit>
       <trans-unit id="d3d2e617335f08df83599665eef8a418" approved="yes">
         <source>Close</source>
-        <target state="final">Inchide</target>
+        <target state="final">Închide</target>
         <note>File: themes/hummingbird/templates/checkout/_partials/modal-terms.tpl [Line: 10]</note>
       </trans-unit>
       <trans-unit id="c8a17899dc267baa655e66e93dfa97a2" approved="yes">
         <source>Common names and surnames are easy to guess</source>
-        <target state="final">Prenumele si numele comune sunt usor de ghicit</target>
+        <target state="final">Prenumele și numele comune sunt ușor de ghicit</target>
         <note>File: classes/controller/FrontController.php [Line: 1798]</note>
       </trans-unit>
       <trans-unit id="02d4482d332e1aef3437cd61c9bcc624" approved="yes">
         <source>Contact us</source>
-        <target state="final">Contacteaza-ne</target>
+        <target state="final">Contactează-ne</target>
         <note>File: themes/hummingbird/modules/ps_contactinfo/nav.tpl [Line: 13]</note>
       </trans-unit>
       <trans-unit id="1aa668d559a3a32a44796aeee6978a59" approved="yes">
@@ -198,7 +198,7 @@
       </trans-unit>
       <trans-unit id="b3c7b778a3c8c869426ae81486275b12" approved="yes">
         <source>Dates are often easy to guess</source>
-        <target state="final">Datele sunt adesea usor de ghicit</target>
+        <target state="final">Datele sunt adesea ușor de ghicit</target>
         <note>File: classes/controller/FrontController.php [Line: 1791]</note>
       </trans-unit>
       <trans-unit id="a0bfe0853cf82bdf5dcb9b0bac76c357" approved="yes">
@@ -223,12 +223,12 @@
       </trans-unit>
       <trans-unit id="3805f49499fa5010c394e219aa1fe7a0" approved="yes">
         <source>Get our latest news and special sales</source>
-        <target state="final">Ultimele noutati si promotii speciale</target>
+        <target state="final">Ultimele noutăți și promoții speciale</target>
         <note>File: themes/hummingbird/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl [Line: 9]</note>
       </trans-unit>
       <trans-unit id="8cf04a9734132302f96da8e113e80ce5" approved="yes">
         <source>Home</source>
-        <target state="final">Acasa</target>
+        <target state="final">Acasă</target>
         <note>File: themes/hummingbird/templates/customer/_partials/my-account-links.tpl [Line: 12]</note>
       </trans-unit>
       <trans-unit id="4994a8ffeba4ac3140beb89e8d41f174" approved="yes">
@@ -252,12 +252,12 @@
       </trans-unit>
       <trans-unit id="6c5c05a5b907385c60c3baa4087ea1a1" approved="yes">
         <source>List of sub categories in %name%:</source>
-        <target state="final">Lista de subcategorii in %name%:</target>
+        <target state="final">Lista de subcategorii în %name%:</target>
         <note>File: themes/hummingbird/templates/cms/category.tpl [Line: 16]</note>
       </trans-unit>
       <trans-unit id="8524de963f07201e5c086830d370797f" approved="yes">
         <source>Loading...</source>
-        <target state="final">Se incarca...</target>
+        <target state="final">Se încarcă...</target>
         <note>File: themes/hummingbird/templates/components/page-loader.tpl [Line: 10]</note>
       </trans-unit>
       <trans-unit id="bffe9a3c9a7e00ba00a11749e022d911" approved="yes">
@@ -277,7 +277,7 @@
       </trans-unit>
       <trans-unit id="83812066e07a07e691d165c97ba89735" approved="yes">
         <source>Names and surnames by themselves are easy to guess</source>
-        <target state="final">Numele si prenumele izolate sunt usor de ghicit</target>
+        <target state="final">Numele și prenumele izolate sunt ușor de ghicit</target>
         <note>File: classes/controller/FrontController.php [Line: 1797]</note>
       </trans-unit>
       <trans-unit id="03c2e7e41ffc181a4e84080b4710e81e" approved="yes">
@@ -322,22 +322,22 @@
       </trans-unit>
       <trans-unit id="dd1f775e443ff3b9a89270713580a51b" approved="yes">
         <source>Previous</source>
-        <target state="final">Inapoi</target>
+        <target state="final">Înapoi</target>
         <note>File: themes/classic/modules/ps_imageslider/views/templates/hook/slider.tpl [Line: 51]</note>
       </trans-unit>
       <trans-unit id="25096ab4fbb9994547ace751ca107515" approved="yes">
         <source>Recent years are easy to guess</source>
-        <target state="final">Anii recenti sunt usor de ghicit</target>
+        <target state="final">Anii recenti sunt ușor de ghicit</target>
         <note>File: classes/controller/FrontController.php [Line: 1790]</note>
       </trans-unit>
       <trans-unit id="773ac0d662987369abf46eebc9000a09" approved="yes">
         <source>Repeats like "aaa" are easy to guess</source>
-        <target state="final">Repetari ca "aaa" sunt usor de ghicit</target>
+        <target state="final">Repetari ca "aaa" sunt ușor de ghicit</target>
         <note>File: classes/controller/FrontController.php [Line: 1787]</note>
       </trans-unit>
       <trans-unit id="97681c90722711e8081dcbd10620502e" approved="yes">
         <source>Repeats like "abcabcabc" are only slightly harder to guess than "abc"</source>
-        <target state="final">Repetari ca "abcabcabc" sunt doar cu putin mai greu de ghicit decat "abc"</target>
+        <target state="final">Repetari ca "abcabcabc" sunt doar cu puțin mai greu de ghicit decât "abc"</target>
         <note>File: classes/controller/FrontController.php [Line: 1788]</note>
       </trans-unit>
       <trans-unit id="fc51ea2f3761abe2201b06a33f75748e" approved="yes">
@@ -352,7 +352,7 @@
       </trans-unit>
       <trans-unit id="de3492070cd44f280a6f398dca2f1efb" approved="yes">
         <source>Sequences like "abc" or "6543" are easy to guess</source>
-        <target state="final">Secvente ca "abc" sau "6543" sunt usor de ghicit</target>
+        <target state="final">Secvente ca "abc" sau "6543" sunt ușor de ghicit</target>
         <note>File: classes/controller/FrontController.php [Line: 1789]</note>
       </trans-unit>
       <trans-unit id="552a0d8c17d95d5dbdc0c28217024f5a" approved="yes">
@@ -361,7 +361,7 @@
       </trans-unit>
       <trans-unit id="bed5e315d09dedac517831b95571a7f4" approved="yes">
         <source>Short keyboard patterns are easy to guess</source>
-        <target state="final">Parolele compuse din sabloane scurte de taste sunt ușor de ghicit</target>
+        <target state="final">Parolele compuse din șabloane scurte de taste sunt ușor de ghicit</target>
         <note>File: classes/controller/FrontController.php [Line: 1785]</note>
       </trans-unit>
       <trans-unit id="5813ce0ec7196c492c97596718f71969" approved="yes">
@@ -371,12 +371,12 @@
       </trans-unit>
       <trans-unit id="98438bb96e6464272cadcd6a9c5774b7" approved="yes">
         <source>Sort by selection</source>
-        <target state="final">Sorteaza dupa selectie</target>
+        <target state="final">Sortează după selecție</target>
         <note>File: themes/classic/templates/catalog/_partials/sort-orders.tpl [Line: 32]</note>
       </trans-unit>
       <trans-unit id="6f9d01a14011f05fffe48559583fc609" approved="yes">
         <source>Sort by:</source>
-        <target state="final">Sorteaza dupa:</target>
+        <target state="final">Sortează după:</target>
         <note>File: themes/hummingbird/templates/catalog/_partials/sort-orders.tpl [Line: 6]</note>
       </trans-unit>
       <trans-unit id="ec53a8c4f07baed5d8825072c89799be" approved="yes">
@@ -386,12 +386,12 @@
       </trans-unit>
       <trans-unit id="3aea774cdcd8f2c45549f10758a71323" approved="yes">
         <source>Store information</source>
-        <target state="final">Informatiile magazinului</target>
+        <target state="final">Informațiile magazinului</target>
         <note>File: themes/hummingbird/modules/ps_contactinfo/ps_contactinfo.tpl [Line: 13]</note>
       </trans-unit>
       <trans-unit id="43775ce1723057d9e3d21e5969324fd1" approved="yes">
         <source>Straight rows of keys are easy to guess</source>
-        <target state="final">Parolele create prin apasari de taste consecutive sunt usor de ghicit</target>
+        <target state="final">Parolele create prin apasari de taste consecutive sunt ușor de ghicit</target>
         <note>File: classes/controller/FrontController.php [Line: 1784]</note>
       </trans-unit>
       <trans-unit id="c43e0fd449c758dab8f891d8e19eb1a9" approved="yes">
@@ -406,7 +406,7 @@
       </trans-unit>
       <trans-unit id="befcac0f9644a7abee43e69f49252ac4" approved="yes">
         <source>Tax excluded</source>
-        <target state="final">Fara TVA</target>
+        <target state="final">Fără TVA</target>
         <note>File: src/Adapter/Presenter/Product/ProductLazyArray.php [Line: 548]</note>
       </trans-unit>
       <trans-unit id="f4a0d7cb0cd45214c8ca5912c970de13" approved="yes">
@@ -416,32 +416,32 @@
       </trans-unit>
       <trans-unit id="f2fbecfb4e1f8fd471dcc0881d8518f1" approved="yes">
         <source>The page you are looking for was not found.</source>
-        <target state="final">Pagina pe care o cauti nu a fost gasita.</target>
+        <target state="final">Pagina pe care o cauti nu a fost găsită.</target>
         <note>File: controllers/front/listing/CategoryController.php [Line: 349]</note>
       </trans-unit>
       <trans-unit id="954a21d373e3f1bd2446606700a37217" approved="yes">
         <source>This is a top-10 common password</source>
-        <target state="final">Aceasta parola este una dintre cele mai folosite zece parole</target>
+        <target state="final">Această parola este una dintre cele mai folosite zece parole</target>
         <note>File: classes/controller/FrontController.php [Line: 1792]</note>
       </trans-unit>
       <trans-unit id="f6e52aa06b58dd0d8855340b165c0b49" approved="yes">
         <source>This is a top-100 common password</source>
-        <target state="final">Aceasta parola este una dintre cele mai folosite o suta de parole</target>
+        <target state="final">Această parola este una dintre cele mai folosite o suta de parole</target>
         <note>File: classes/controller/FrontController.php [Line: 1793]</note>
       </trans-unit>
       <trans-unit id="0f4a64d2fecd6b4ab2c10d21313e02a6" approved="yes">
         <source>This is a very common password</source>
-        <target state="final">Aceasta este o parola foarte des intalnita</target>
+        <target state="final">Această este o parola foarte des întâlnită</target>
         <note>File: classes/controller/FrontController.php [Line: 1794]</note>
       </trans-unit>
       <trans-unit id="c92578d4545d5aceb430aed0c7285398" approved="yes">
         <source>This is similar to a commonly used password</source>
-        <target state="final">Aceasta este similara cu o parola folosita in mod obisnuit</target>
+        <target state="final">Această este similară cu o parola folosita în mod obișnuit</target>
         <note>File: classes/controller/FrontController.php [Line: 1795]</note>
       </trans-unit>
       <trans-unit id="4f0e08d060041845b0bbc6571b3a03d5" approved="yes">
         <source>This page could not be found</source>
-        <target state="final">Aceasta pagina nu a putut fi gasita</target>
+        <target state="final">Această pagina nu a putut fi găsită</target>
         <note>File: themes/classic/templates/errors/not-found.tpl [Line: 31]</note>
       </trans-unit>
       <trans-unit id="78ae6f0cd191d25147e252dc54768238" approved="yes">
@@ -451,11 +451,11 @@
       </trans-unit>
       <trans-unit id="5068c162a60b5859f973f701333f45c5" approved="yes">
         <source>Tracking number</source>
-        <target state="final">Numar de urmarire</target>
+        <target state="final">Număr de urmarire</target>
       </trans-unit>
       <trans-unit id="55f4c6645bbe047c611fed2c501ec58a" approved="yes">
         <source>Try to search our catalog, you may find what you are looking for!</source>
-        <target state="final">Incearca sa cauti in catalogul nostru, ai putea gasi ce cauti!</target>
+        <target state="final">Încearcă să cauti în catalogul nostru, ai putea găsi ce cauti!</target>
         <note>File: themes/classic/templates/errors/not-found.tpl [Line: 32]</note>
       </trans-unit>
       <trans-unit id="5792315f09a5d54fb7e3d066672b507f" approved="yes">
@@ -470,12 +470,12 @@
       </trans-unit>
       <trans-unit id="dd96380694cf9e241cba2b2ac4cf8c03" approved="yes">
         <source>Use a few words, avoid common phrases</source>
-        <target state="final">Foloseste cateva cuvinte evitand expresiile comune</target>
+        <target state="final">Folosește câteva cuvinte evitand expresiile comune</target>
         <note>File: classes/controller/FrontController.php [Line: 1799]</note>
       </trans-unit>
       <trans-unit id="37ffb1976d12530b5c07821baaf5be39" approved="yes">
         <source>Use a longer keyboard pattern with more turns</source>
-        <target state="final">Utilizeaza un sablon mai lung de taste, cu mai multe schimbari</target>
+        <target state="final">Utilizeaza un șablon mai lung de taste, cu mai multe schimbari</target>
         <note>File: classes/controller/FrontController.php [Line: 1786]</note>
       </trans-unit>
       <trans-unit id="516b34a4d2351006f3a0f39ccffccefa" approved="yes">
@@ -514,12 +514,12 @@
       </trans-unit>
       <trans-unit id="23e51de7d53c8fc82a0fa27e2db03776" approved="yes">
         <source>You are not allowed to access this page.</source>
-        <target state="final">Nu esti autorizat sa accesezi aceasta pagina.</target>
+        <target state="final">Nu ești autorizat să accesezi această pagina.</target>
         <note>File: themes/classic/templates/errors/forbidden.tpl [Line: 42]</note>
       </trans-unit>
       <trans-unit id="cf8092a0be7b972d6cee3db90bfaf923" approved="yes">
         <source>You cannot access this store from your country. We apologize for the inconvenience.</source>
-        <target state="final">Magazinul nu poate fi accesat din tara ta. Ne cerem scuze pentru neplacerile create.</target>
+        <target state="final">Magazinul nu poate fi accesat din țară ta. Ne cerem scuze pentru neplacerile create.</target>
         <note>File: themes/hummingbird/templates/errors/restricted-country.tpl [Line: 34]</note>
       </trans-unit>
     </body>

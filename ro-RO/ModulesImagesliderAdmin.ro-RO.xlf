@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="88fd0fdbf26a60e4fb7eaea258dea1df" approved="yes">
         <source>Add sliding images to your homepage to welcome your visitors in a visual and friendly way.</source>
-        <target state="final">Adauga diapozitive la pagina ta principala pentru a-ti intampina vizitatorii intr-un mod prietenos si vizual.</target>
+        <target state="final">Adaugă diapozitive la pagina ta principală pentru a-ti întâmpină vizitatorii intr-un mod prietenos și vizual.</target>
         <note>File: modules/ps_imageslider/ps_imageslider.php [Line: 64]</note>
       </trans-unit>
       <trans-unit id="272ba7d164aa836995be6319a698be84" approved="yes">
@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="73133ce32267e8c7a854d15258eb17e0" approved="yes">
         <source>Invalid filename.</source>
-        <target state="final">Nume invalid de fisier.</target>
+        <target state="final">Nume invalid de fișier.</target>
         <note>File: modules/ps_imageslider/ps_imageslider.php [Line: 370]</note>
       </trans-unit>
       <trans-unit id="a6abafe564d3940cc36ee43e2f09400b" approved="yes">
@@ -34,7 +34,7 @@
       </trans-unit>
       <trans-unit id="e0ce30bfbf90d2306ecf72f06a83133f" approved="yes">
         <source>Invalid slide state.</source>
-        <target state="final">Stare invalida a cadrului.</target>
+        <target state="final">Stare invalidă a cadrului.</target>
         <note>File: modules/ps_imageslider/ps_imageslider.php [Line: 340]</note>
       </trans-unit>
       <trans-unit id="3f80dc2cdd06939d4f5514362067cd86" approved="yes">
@@ -64,12 +64,12 @@
       </trans-unit>
       <trans-unit id="5a3489cc067f89b268b6958bffb98ebf" approved="yes">
         <source>Since multiple languages are activated on your shop, please mind to upload your image for each one of them</source>
-        <target state="final">Deoarece sunt active mai multe limbi pentru magazinul tau, asigura-te ca incarci imaginea pentru fiecare din ele</target>
+        <target state="final">Deoarece sunt active mai multe limbi pentru magazinul tău, asigură-te ca încarci imaginea pentru fiecare din ele</target>
         <note>File: modules/ps_imageslider/ps_imageslider.php [Line: 1071]</note>
       </trans-unit>
       <trans-unit id="ced7338587c502f76917b5a693f848c5" approved="yes">
         <source>Slide information</source>
-        <target state="final">Informatii despre cadru</target>
+        <target state="final">Informații despre cadru</target>
         <note>File: modules/ps_imageslider/ps_imageslider.php [Line: 823]</note>
       </trans-unit>
       <trans-unit id="c82324ebbcea34f55627a897b37190e3" approved="yes">
@@ -84,12 +84,12 @@
       </trans-unit>
       <trans-unit id="448e0fa7b305331385aef516333e1c65" approved="yes">
         <source>Stop sliding when the mouse cursor is over the slideshow.</source>
-        <target state="final">Opreste miscarea cand mouse-ul este deasupra caruselului.</target>
+        <target state="final">Oprește mișcarea când mouse-ul este deasupra caruselului.</target>
         <note>File: modules/ps_imageslider/ps_imageslider.php [Line: 959]</note>
       </trans-unit>
       <trans-unit id="e64df1d7c22b9638f084ce8a4aff3ff3" approved="yes">
         <source>Target URL</source>
-        <target state="final">Adresa URL de destinatie</target>
+        <target state="final">Adresa URL de destinație</target>
         <note>File: modules/ps_imageslider/ps_imageslider.php [Line: 843]</note>
       </trans-unit>
       <trans-unit id="980f56796b8bf9d607283de9815fe217" approved="yes">
@@ -109,7 +109,7 @@
       </trans-unit>
       <trans-unit id="7f82c65d548588c8d5412463c182e450" approved="yes">
         <source>The configuration could not be updated.</source>
-        <target state="final">Configurarea nu a putut fi actualizata.</target>
+        <target state="final">Configurarea nu a putut fi actualizată.</target>
         <note>File: modules/ps_imageslider/ps_imageslider.php [Line: 462]</note>
       </trans-unit>
       <trans-unit id="62239300ba982b06ab0f1aa7100ad297" approved="yes">
@@ -119,7 +119,7 @@
       </trans-unit>
       <trans-unit id="11cd394e1bd88abe611fd331887f0c74" approved="yes">
         <source>The duration of the transition between two slides.</source>
-        <target state="final">Durata tranzitiei intre doua cadre.</target>
+        <target state="final">Durata tranziției între doua cadre.</target>
         <note>File: modules/ps_imageslider/ps_imageslider.php [Line: 953]</note>
       </trans-unit>
       <trans-unit id="8cf45ba354f4725ec8a0d31164910895" approved="yes">
@@ -129,22 +129,22 @@
       </trans-unit>
       <trans-unit id="71063fd397d237e563089c22dd8b69e8" approved="yes">
         <source>The modifications will be applied to all shops and shop groups</source>
-        <target state="final">Aceste modificari vor fi aplicate tuturor magazinelor si grupurilor de magazine</target>
+        <target state="final">Aceste modificări vor fi aplicate tuturor magazinelor și grupurilor de magazine</target>
         <note>File: modules/ps_imageslider/ps_imageslider.php [Line: 1120]</note>
       </trans-unit>
       <trans-unit id="298b615220606d42b6ac60269df0d321" approved="yes">
         <source>The modifications will be applied to shop: %s</source>
-        <target state="final">Modificarile vor fi aplicate magazinului: %s</target>
+        <target state="final">Modificările vor fi aplicate magazinului: %s</target>
         <note>File: modules/ps_imageslider/ps_imageslider.php [Line: 1116]</note>
       </trans-unit>
       <trans-unit id="aef3662e6419ddaaa0a31df70e3b6557" approved="yes">
         <source>The modifications will be applied to this group: %s</source>
-        <target state="final">Modificarile vor fi aplicate acestui grup: %s</target>
+        <target state="final">Modificările vor fi aplicate acestui grup: %s</target>
         <note>File: modules/ps_imageslider/ps_imageslider.php [Line: 1118]</note>
       </trans-unit>
       <trans-unit id="cdf841e01e10cae6355f72e6838808eb" approved="yes">
         <source>The slide could not be added.</source>
-        <target state="final">Cadrul nu a putut fi adaugat.</target>
+        <target state="final">Cadrul nu a putut fi adăugat.</target>
         <note>File: modules/ps_imageslider/ps_imageslider.php [Line: 539]</note>
       </trans-unit>
       <trans-unit id="eb28485b92fbf9201918698245ec6430" approved="yes">
@@ -159,12 +159,12 @@
       </trans-unit>
       <trans-unit id="6a5aa2542c21debccd82b2e0038c3d1a" approved="yes">
         <source>This slide is shared with other shops! All shops associated to this slide will apply modifications made here</source>
-        <target state="final">Acest diapozitiv este partajat cu alte magazine! Toate magazinelor asociate acestui diapozitiv vor aplica modificarile efectuate aici</target>
+        <target state="final">Acest diapozitiv este partajat cu alte magazine! Toate magazinelor asociate acestui diapozitiv vor aplică modificările efectuate aici</target>
         <note>File: modules/ps_imageslider/ps_imageslider.php [Line: 1132]</note>
       </trans-unit>
       <trans-unit id="7a5c11dddbb2118d08611a1f0678bb91" approved="yes">
         <source>Unable to get slide shop association information (id_slide: %d)</source>
-        <target state="final">Nu se pot obtine informatii despre asocierea diapozitivului cu magazinul (id_slide: %d)</target>
+        <target state="final">Nu se pot obține informații despre asocierea diapozitivului cu magazinul (id_slide: %d)</target>
         <note>File: modules/ps_imageslider/ps_imageslider.php [Line: 1106]</note>
       </trans-unit>
       <trans-unit id="432ed99c2e808d79c96f892807d33325" approved="yes">
@@ -174,12 +174,12 @@
       </trans-unit>
       <trans-unit id="6a1ae4ad1018e00dddb16a2ce30a24f6" approved="yes">
         <source>You cannot add slides from a "All Shops" or a "Group Shop" context</source>
-        <target state="final">Nu poti adauga diapozitive dintr-un context "Toate magazinele" sau "Grup de magazine"</target>
+        <target state="final">Nu poți adaugă diapozitive dintr-un context "Toate magazinele" sau "Grup de magazine"</target>
         <note>File: modules/ps_imageslider/ps_imageslider.php [Line: 1098]</note>
       </trans-unit>
       <trans-unit id="c8a1ed10db4201b3ae06ea0aa912028d" approved="yes">
         <source>You cannot manage slides items from a "All Shops" or a "Group Shop" context, select directly the shop you want to edit</source>
-        <target state="final">Diapozitivele nu pot fi administrate in contextul "Toate magazinele" sau "Grup de magazine", este necesar sa alegi magazinul concret unde doresti sa modifici</target>
+        <target state="final">Diapozitivele nu pot fi administrate în contextul "Toate magazinele" sau "Grup de magazine", este necesar să alegi magazinul concret unde dorești să modifici</target>
         <note>File: modules/ps_imageslider/ps_imageslider.php [Line: 1079]</note>
       </trans-unit>
     </body>

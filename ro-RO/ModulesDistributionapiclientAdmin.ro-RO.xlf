@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="23d70cf6de7b47482c81740a7635bcc8" approved="yes">
         <source>Download and upgrade PrestaShop's native modules.</source>
-        <target state="final">Descarca si actualizeaza module native PrestaShop.</target>
+        <target state="final">Descarcă și actualizează module native PrestaShop.</target>
         <note>File: modules/ps_distributionapiclient/ps_distributionapiclient.php [Line: 39]</note>
       </trans-unit>
     </body>

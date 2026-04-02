@@ -14,7 +14,7 @@
       </trans-unit>
       <trans-unit id="37b63709800867d6806633f05e35e074" approved="yes">
         <source>Make your customers feel at home on your store, invite them to sign in!</source>
-        <target state="final">Fa-ti clientii sa se simta ca acasa in magazinul tau, invita-i sa se autentifice!</target>
+        <target state="final">Fa-ti clienții să se simta ca acasă în magazinul tău, invita-i să se autentifice!</target>
         <note>File: modules/ps_customersignin/ps_customersignin.php [Line: 53]</note>
       </trans-unit>
     </body>

@@ -4,12 +4,12 @@
     <body>
       <trans-unit id="80ebdccece38141cd9c0f9b3b623091f" approved="yes">
         <source>Are you sure you want to delete this item?</source>
-        <target state="final">Sigur doresti sa stergi acest produs?</target>
+        <target state="final">Sigur dorești să ștergi acest produs?</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Type/EntitySearchInputType.php [Line: 226]</note>
       </trans-unit>
       <trans-unit id="bb8956c67b82c7444a80c6b2433dd8b4" approved="yes">
         <source>Are you sure you want to uninstall this module?</source>
-        <target state="final">Sigur doresti dezinstalarea acestui modul?</target>
+        <target state="final">Sigur dorești dezinstalarea acestui modul?</target>
         <note>File: modules/gsitemap/gsitemap.php [Line: 74]</note>
       </trans-unit>
       <trans-unit id="729a51874fe901b092899e9e8b31c97a" approved="yes">
@@ -19,37 +19,37 @@
       </trans-unit>
       <trans-unit id="e8cf85cec621489ec026f7e06c67eb4e" approved="yes">
         <source>Delete item</source>
-        <target state="final">Sterge elementul</target>
+        <target state="final">Șterge elementul</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Type/EntitySearchInputType.php [Line: 225]</note>
       </trans-unit>
       <trans-unit id="4304f7a01c82c28f5a42a5f0d4c7bcc7" approved="yes">
         <source>Delete selected item from all stores?</source>
-        <target state="final">Stergi articolul selectat din toate magazinele?</target>
+        <target state="final">Ștergi articolul selectat din toate magazinele?</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Combination/CombinationItemType.php [Line: 138]</note>
       </trans-unit>
       <trans-unit id="400555f6e34160c3f31e229d1f7c88a6" approved="yes">
         <source>Delete selected item from current store?</source>
-        <target state="final">Stergi articolul selectat din magazinul curent?</target>
+        <target state="final">Ștergi articolul selectat din magazinul curent?</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Combination/CombinationItemType.php [Line: 92]</note>
       </trans-unit>
       <trans-unit id="1412292b09d3cd39f32549afb1f5f102" approved="yes">
         <source>Delete selected item?</source>
-        <target state="final">Stergi articolul selectat?</target>
+        <target state="final">Ștergi articolul selectat?</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Combination/CombinationItemType.php [Line: 94]</note>
       </trans-unit>
       <trans-unit id="e25f0ecd41211b01c83e5fec41df4fe7" approved="yes">
         <source>Delete selected items?</source>
-        <target state="final">Se sterg elementele selectate?</target>
+        <target state="final">Se șterg elementele selectate?</target>
         <note>File: src/Core/Grid/Definition/Factory/CatalogPriceRuleGridDefinitionFactory.php [Line: 343]</note>
       </trans-unit>
       <trans-unit id="a4da6f31ab268a5310bc475e63ab92db" approved="yes">
         <source>I understand the risks and I really want to display this page</source>
-        <target state="final">Inteleg riscurile si chiar vreau sa vad aceasta pagina</target>
+        <target state="final">Înțeleg riscurile și chiar vreau să vad această pagina</target>
         <note>File: admin-dev/themes/default/template/invalid_token.tpl [Line: 89]</note>
       </trans-unit>
       <trans-unit id="85265e940fbb820dd2475946e7bc48d9" approved="yes">
         <source>Invalid configuration</source>
-        <target state="final">Configuratie invalida</target>
+        <target state="final">Configurație invalidă</target>
         <note>File: src/Core/MerchandiseReturn/Configuration/MerchandiseReturnOptionsConfiguration.php [Line: 64]</note>
       </trans-unit>
       <trans-unit id="db26e10564e958809d798e8048fcbc0a" approved="yes">
@@ -59,7 +59,7 @@
       </trans-unit>
       <trans-unit id="6557717352c9b5d28da3b96bf546a389" approved="yes">
         <source>Leave anyway</source>
-        <target state="final">Paraseste pagina oricum</target>
+        <target state="final">Părăsește pagina oricum</target>
         <note>File: src/PrestaShopBundle/Translation/Api/InternationalApi.php [Line: 39]</note>
       </trans-unit>
       <trans-unit id="c65196ecfecdada5e94d8d6ed8749789" approved="yes">
@@ -74,12 +74,12 @@
       </trans-unit>
       <trans-unit id="5887e86df08049bc0eab95e975e057c4" approved="yes">
         <source>Please select theme's import source.</source>
-        <target state="final">Te rugam sa selectezi sursa pentru importul temei.</target>
+        <target state="final">Te rugăm să selectezi sursa pentru importul temei.</target>
         <note>File: src/PrestaShopBundle/Controller/Admin/Improve/Design/ThemeController.php [Line: 211]</note>
       </trans-unit>
       <trans-unit id="043f2b6920e5c8a140301051d18d8618" approved="yes">
         <source>Since December 30, 2019, you need to register for a [1]MaxMind[/1] account to get a license key to be able to download the geolocation data. Once downloaded, extract the data using Winrar or Gzip into the /app/Resources/geoip/ directory.</source>
-        <target state="final">Incepand cu 30 decembrie 2019, pentru a putea descarca date de geolocalizare iti trebuie o cheie de licenta pe care o poti obtine inregistrand un cont [1]MaxMind[/1]. Odata descarcate datele, extrage-le in directorul /app/Resources/geoip/ cu Winrar sau Gzip.</target>
+        <target state="final">Începând cu 30 decembrie 2019, pentru a putea descarca date de geolocalizare îți trebuie o cheie de licență pe care o poți obține înregistrând un cont [1]MaxMind[/1]. Odata descărcate datele, extrage-le în directorul /app/Resources/geoip/ cu Winrar sau Gzip.</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/International/Geolocation/index.html.twig [Line: 33]</note>
       </trans-unit>
       <trans-unit id="5196611ad1bf27e9cef5375b038c04db" approved="yes">
@@ -89,17 +89,17 @@
       </trans-unit>
       <trans-unit id="fe73eda0f6569ec502fe52716a648370" approved="yes">
         <source>You can't change the value of this configuration field in this store's context.</source>
-        <target state="final">Nu poti modifica valoarea acestui camp de configurare in contextul acestui magazin.</target>
+        <target state="final">Nu poți modifică valoarea acestui câmp de configurare în contextul acestui magazin.</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Employee/EmployeeOptionsType.php [Line: 71]</note>
       </trans-unit>
       <trans-unit id="69163c4320b04b309f70f6ab6096657a" approved="yes">
         <source>You cannot change the value of this configuration field in the context of this shop.</source>
-        <target state="final">Nu se poate modifica valoarea acestui parametru de configurare in contextul acestui magazin.</target>
+        <target state="final">Nu se poate modifică valoarea acestui parametru de configurare în contextul acestui magazin.</target>
         <note>File: src/Core/Team/Employee/Configuration/EmployeeOptionsConfiguration.php [Line: 75]</note>
       </trans-unit>
       <trans-unit id="f58375e52c1f1329c29c474cd8b34ec7" approved="yes">
         <source>Your modifications are not saved yet. Do you wish to save it before leaving?</source>
-        <target state="final">Modificarile nu au fost salvate. Doresti salvarea modificarilor inainte de a iesi?</target>
+        <target state="final">Modificările nu au fost salvate. Dorești salvarea modificărilor înainte de a ieși?</target>
         <note>File: src/PrestaShopBundle/Translation/Api/InternationalApi.php [Line: 42]</note>
       </trans-unit>
     </body>

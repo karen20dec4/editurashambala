@@ -4,17 +4,17 @@
     <body>
       <trans-unit id="8290fb626ffacf21450997f25967efeb" approved="yes">
         <source>Module not found</source>
-        <target state="final">Modulul nu a fost gasit</target>
+        <target state="final">Modulul nu a fost găsit</target>
         <note>File: admin-dev/themes/default/template/controllers/stats/stats.tpl [Line: 31]</note>
       </trans-unit>
       <trans-unit id="9f8ba2077f4e7338b68934afe22b4ad9" approved="yes">
         <source>Please select a module from the left column.</source>
-        <target state="final">Selecteaza un modul din coloana stanga</target>
+        <target state="final">Selectează un modul din coloana stanga</target>
         <note>File: admin-dev/themes/default/template/controllers/stats/stats.tpl [Line: 34]</note>
       </trans-unit>
       <trans-unit id="afa9e719ed5259554b0647d035eaecb8" approved="yes">
         <source>The specified date is invalid.</source>
-        <target state="final">Data specificata este invalida.</target>
+        <target state="final">Data specificată este invalidă.</target>
         <note>File: controllers/admin/AdminStatsTabController.php [Line: 247]</note>
       </trans-unit>
     </body>

@@ -14,7 +14,7 @@
       </trans-unit>
       <trans-unit id="57c5adc84e6b7d212be5f4d48e19107f" approved="yes">
         <source>Facebook, Twitter, let your customers know where to follow you and increase your community.</source>
-        <target state="final">Facebook, Twitter - arata-le clientilor tai unde sa te urmareasca si mareste-ti comunitatea.</target>
+        <target state="final">Facebook, Twitter - arată-le clienților tăi unde să te urmareasca și mărește-ti comunitatea.</target>
         <note>File: modules/ps_socialfollow/ps_socialfollow.php [Line: 56]</note>
       </trans-unit>
       <trans-unit id="130bab903955b2f6047a0db82f460386" approved="yes">
@@ -34,7 +34,7 @@
       </trans-unit>
       <trans-unit id="4ee6b3b11a0cfe42f0522f01407d7885" approved="yes">
         <source>Please choose a shop to edit the social media links.</source>
-        <target state="final">Te rog sa alegi un magazin pentru a-i modifica linkurile spre retele sociale.</target>
+        <target state="final">Te rog să alegi un magazin pentru a-i modifică linkurile spre rețele sociale.</target>
         <note>File: modules/ps_socialfollow/ps_socialfollow.php [Line: 113]</note>
       </trans-unit>
       <trans-unit id="1a530e4877d8d41f810d9d05f065722d" approved="yes">
@@ -44,7 +44,7 @@
       </trans-unit>
       <trans-unit id="57066e29e9b1ef80851b42afc0745db7" approved="yes">
         <source>Social media follow links</source>
-        <target state="final">Linkuri spre retele sociale</target>
+        <target state="final">Linkuri spre rețele sociale</target>
         <note>File: modules/ps_socialfollow/ps_socialfollow.php [Line: 55]</note>
       </trans-unit>
       <trans-unit id="672f301ddc5372b2477ed3c1d9322949" approved="yes">
@@ -84,17 +84,17 @@
       </trans-unit>
       <trans-unit id="d55a27c3408d38f3137182c89b69a7a7" approved="yes">
         <source>Your official Instagram account.</source>
-        <target state="final">Contul tau oficial de la Instagram.</target>
+        <target state="final">Contul tău oficial de la Instagram.</target>
         <note>File: modules/ps_socialfollow/ps_socialfollow.php [Line: 183]</note>
       </trans-unit>
       <trans-unit id="419525c6c4f2bb2639719150dbaaca0a" approved="yes">
         <source>Your official LinkedIn account.</source>
-        <target state="final">Contul tau de LinkedIn.</target>
+        <target state="final">Contul tău de LinkedIn.</target>
         <note>File: modules/ps_socialfollow/ps_socialfollow.php [Line: 190]</note>
       </trans-unit>
       <trans-unit id="e158a81859319b5e442bc490b0e81af3" approved="yes">
         <source>Your official Pinterest account.</source>
-        <target state="final">Contul tau oficial Pinterest.</target>
+        <target state="final">Contul tău oficial Pinterest.</target>
         <note>File: modules/ps_socialfollow/ps_socialfollow.php [Line: 169]</note>
       </trans-unit>
       <trans-unit id="ed8b69a1aa92f0abced462c67b79c544" approved="yes">
@@ -104,17 +104,17 @@
       </trans-unit>
       <trans-unit id="6aadf667dfc3538abc2708ba76861bba" approved="yes">
         <source>Your official Twitter account.</source>
-        <target state="final">Contul tau oficial de Twitter.</target>
+        <target state="final">Contul tău oficial de Twitter.</target>
         <note>File: modules/ps_socialfollow/ps_socialfollow.php [Line: 148]</note>
       </trans-unit>
       <trans-unit id="cba991994fe165dfcf4f5bd256bbe119" approved="yes">
         <source>Your official Vimeo account.</source>
-        <target state="final">Contul tau oficial de la VImeo.</target>
+        <target state="final">Contul tău oficial de la VImeo.</target>
         <note>File: modules/ps_socialfollow/ps_socialfollow.php [Line: 176]</note>
       </trans-unit>
       <trans-unit id="5817a34292f074f9f596de6cb3607540" approved="yes">
         <source>Your official YouTube account.</source>
-        <target state="final">Contul tau oficial de YouTube.</target>
+        <target state="final">Contul tău oficial de YouTube.</target>
         <note>File: modules/ps_socialfollow/ps_socialfollow.php [Line: 162]</note>
       </trans-unit>
     </body>
